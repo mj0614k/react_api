@@ -17,19 +17,14 @@ const Reference = () => {
   // 반복문으로 불러와야 하기 때문에 복수형으로 작성하였음
   const [references, setReferences] = useState([]);
 
-  useEffect(() => {    
-    fetch("https://mj0614k.github.io/react_api/src/utils/reference.json")
+  useEffect(() => {
+    fetch("https://webstoryboy.github.io/react2022/src/assets/json/refer.json")
       .then(response => response.json())
-      .then(result => setReferences(result.cssRefer))
+      // .then(result => console.log(result.data.htmlRefer))
+      // 객체까지 불러왔는지, 배열까지 불러왔는지 꼭 확인하기
+      // 데이터 저장(데이터의 변화를 감지하는 setReferences에)
+      .then(result => setReferences(result.data.htmlRefer))
       .catch(error => console.log('error', error));
-
-    // fetch("https://webstoryboy.github.io/react2022/src/assets/json/refer.json")
-    //   .then(response => response.json())
-    //   // .then(result => console.log(result.data.htmlRefer))
-    //   // 객체까지 불러왔는지, 배열까지 불러왔는지 꼭 확인하기
-    //   // 데이터 저장(데이터의 변화를 감지하는 setReferences에)
-    //   .then(result => setReferences(result.data.htmlRefer))
-    //   .catch(error => console.log('error', error));
   }, [])
 
   return (

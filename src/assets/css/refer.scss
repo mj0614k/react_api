@@ -19,7 +19,7 @@
 
       span {
         display: inline-block;
-        padding: 15px 20px;
+        padding: 15px 10px;
       }
 
       .num {
@@ -28,15 +28,17 @@
         border-right: 1px solid var(--bg-dark-border);
       }
       .name {
-        flex: 1 1 20%;
+        flex: 1 1 15%;
         border-right: 1px solid var(--bg-dark-border);
       }
       .desc {
         flex: 1 1 65%;
+        border-right: 1px solid var(--bg-dark-border);
       }
       .star {
-        flex: 1 1 20%;
+        flex: 1 1 25%;
         text-align: center;
+        border-right: 1px solid var(--bg-dark-border);
       }
     }
   }

@@ -188,7 +188,7 @@
             "num": 9,
             "name": "animation-delay",
             "desc": "애니메이션을 수행하기 시작하기 전에 요소에 애니메이션을 적용할 때까지 기다려야 하는 시간을 지정합니다.",
-            "values": ["<time"],
+            "values": ["<time>"],
             "initial": "0s",
             "syntax": "animation-delay: 0s",
             "descApple": "animation",
