@@ -2,229 +2,807 @@
     "type": "css",
     "cssRefer": [
         {
-            "num": 1,
-            "name": "accent-color",
-            "desc": "일부 요소에서 생성된 사용자 인터페이스 컨트롤의 강조 색상을 설정합니다.",
-            "values": [
-                "auto",
-                "<color>"
-            ],
-            "initial": "auto",
-            "syntax": "accent-color: auto",
-            "descApple": "etc",
+            "num": 56,
+            "name": "border-image",
+            "desc": "요소의 주위에 이미지를 그립니다.",
+            "values": ["<'border-image-source'>", "<'border-image-slice'>", "<'border-image-width'>", "<'border-image-outset'>", "<'border-image-repeat'>"],
+            "initial": "border-image-source: none, border-image-slice: 100%, border-image-width: 1, border-image-outset: 0, border-image-repeat: stretch",
+            "syntax": "border-image: linear-gradient(red, blue) 27;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter.",
             "descVer": "CSS3",
-            "descStar": "🌚🌚🌚🌚🌚",
+            "descStar": "★★☆☆☆",
             "definition": [
-                "콘텐츠 사이와 콘텐츠 주위 빈 공간을 플렉스 박스의 교차축 또는 그리드의 블록 축을 따라 배치하는 방식을 결정합니다.",
-                "한 줄로만 이루어진 플렉스 컨테이너에는 아무 효과도 없습니다."
+                "요소의 주위에 이미지를 그립니다.",
+                "일반 테두리를 대체합니다."
             ]
         },
         {
-            "num": 2,
-            "name": "align-content",
-            "desc": "콘텐츠 사이와 콘텐츠 주위 빈 공간을 플렉스 박스의 교차축 또는 그리드의 블록 축을 따라 배치하는 방식을 결정합니다.",
-            "values": [
-                "start",
-                "end",
-                "flex-start",
-                "flex-end",
-                "center",
-                "normal",
-                "baseline, first baseline, last baseline",
-                "space-between",
-                "space-around",
-                "space-evenly",
-                "stretch",
-                "safe",
-                "unsafe"
-            ],
-            "initial": "normal",
-            "syntax": "align-content: normal",
-            "descApple": "flexbox",
+            "num": 57,
+            "name": "border-image-outset",
+            "desc": "요소의 테두리 상자와 테두리 이미지의 거리를 설정합니다.",
+            "values": ["<length>", "<number>"],
+            "initial": "0",
+            "syntax": "border-image-outset: 1rem;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌝🌝",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "콘텐츠 사이와 콘텐츠 주위 빈 공간을 플렉스 박스의 교차축 또는 그리드의 블록 축을 따라 배치하는 방식을 결정합니다.",
-                "한 줄로만 이루어진 플렉스 컨테이너에는 아무 효과도 없습니다."
+                "요소의 테두리 상자와 테두리 이미지의 거리를 설정합니다.",
+                "border-image-outset으로 인해 요소 바깥에 그려지는 테두리로는 스크롤이 생기지 않으며 마우스 이벤트를 잡아낼 수도 없습니다."
             ]
         },
         {
-            "num": 3,
-            "name": "align-items",
-            "desc": "모든 직계 자식의 값 align-self을 그룹으로 설정합니다.",
-            "values": [
-                "normal",
-                "flex-start",
-                "flex-end",
-                "center",
-                "start",
-                "end",
-                "self-start",
-                "self-end",
-                "baseline, first baseline, last baseline",
-                "stretch",
-                "safe",
-                "unsafe"
-            ],
-            "initial": "normal",
-            "syntax": "align-items: normal",
-            "descApple": "flexbox",
+            "num": 58,
+            "name": "border-image-repeat",
+            "desc": "원본 이미지의 모서리 영역을 요소의 테두리 이미지 크기에 맞춰 조절할 때 사용할 방법을 지정합니다.",
+            "values": ["stretch", "repeat", "round", "space"],
+            "initial": "stretch",
+            "syntax": "border-image-repeat: stretch;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌝🌝",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "모든 직계 자식의 값 align-self을 그룹으로 설정합니다.",
-                "Flexbox에서는 Cross Axis 항목의 정렬을 제어합니다.",
-                "그리드 레이아웃에서는 그리드 영역 내에서 블록 축의 항목 정렬을 제어합니다."
+                "원본 이미지의 모서리 영역을 요소의 테두리 이미지 크기에 맞춰 조절할 때 사용할 방법을 지정합니다.",
+                "한 개 또는 두 개의 값을 사용해 지정할 수 있습니다."
             ]
         },
         {
-            "num": 4,
-            "name": "align-self",
-            "desc": "그리드 또는 플렉스 항목의 값을 재정의합니다.",
-            "values": [
-                "auto",
-                "normal",
-                "self-start",
-                "self-end",
-                "flex-start",
-                "flex-end",
-                "center",
-                "baseline, first baseline, last baseline",
-                "stretch",
-                "safe",
-                "unsafe"
-            ],
-            "initial": "auto",
-            "syntax": "align-self: auto",
-            "descApple": "flexbox",
+            "num": 59,
+            "name": "border-image-slice",
+            "desc": "border-image-source로 설정한 이미지를 여러 개의 영역으로 나눕니다.",
+            "values": ["<number>", "<percentage>", "fill"],
+            "initial": "100%",
+            "syntax": "border-image-slice: 100%;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌚🌚",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "Flexbox에서는 항목을 교차 축 에 정렬합니다.",
-                "그리드에서는 그리드 영역 내부에 항목을 정렬합니다."
+                "border-image-source로 설정한 이미지를 여러 개의 영역으로 나눕니다.",
+                "이렇게 나눠진 영역이 요소의 테두리 이미지를 이룹니다."
             ]
         },
         {
-            "num": 5,
-            "name": "align-tracks",
-            "desc": "블록 축에 벽돌이 있는 그리드 컨테이너에 대해 벽돌 축의 정렬을 설정합니다.",
-            "values": [
-                "start",
-                "end",
-                "center",
-                "normal",
-                "baseline first baseline, last baseline",
-                "space-between",
-                "space-around",
-                "space-evenly",
-                "stretch"
-            ],
-            "initial": "normal",
-            "syntax": "align-tracks: normal",
-            "descApple": "flexbox",
-            "descVer": "CSS3",
-            "descStar": "🌝🌚🌚🌚🌚",
-            "definition": [
-                "블록 축에 벽돌이 있는 그리드 컨테이너에 대해 벽돌 축의 정렬을 설정합니다."
-            ]
-        },
-        {
-            "num": 6,
-            "name": "all",
-            "desc": "요소의 모든 속성을 재설정합니다.",
-            "values": [
-                "initial",
-                "inherit",
-                "unset",
-                "revert"
-            ],
-            "initial": "no practical initial value",
-            "syntax": "all: initial",
-            "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌚🌚",
-            "definition": [
-                "요소의 모든 속성을 재설정합니다.",
-                "속성을 초기 값이나 상속된 값으로 설정하거나 다른 캐스케이드 레이어나 스타일시트 원본에 지정된 값으로 설정할 수 있습니다."
-            ]
-        },
-        {
-            "num": 7,
-            "name": "animation",
-            "desc": "스타일 사이에 애니메이션을 적용합니다.",
-            "values": [
-                "<single-animation-iteration-count>",
-                "<single-animation-direction>",
-                "<single-animation-fill-mode>",
-                "<single-animation-play-state>"
-            ],
+            "num": 60,
+            "name": "border-image-source",
+            "desc": "요소의 테두리 이미지로 사용할 원본 이미지를 지정합니다.",
+            "values": ["none", "<image>"],
             "initial": "none",
-            "syntax": "animation: 4s linear 0s infinite alternate move_eye",
-            "descApple": "animation",
+            "syntax": "border-image-source: none;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌝🌝",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "스타일 사이에 애니메이션을 적용합니다."
+                "요소의 테두리 이미지로 사용할 원본 이미지를 지정합니다.",
+                "border-image-slice 속성으로 나뉜 구역을 사용해 최종 테두리 이미지를 생성합니다."
             ]
         },
         {
-            "num": 8,
-            "name": "animation-composition",
-            "desc": "여러 애니메이션이 동일한 속성에 동시에 영향을 미칠 때 사용할 복합 작업 을 지정합니다.",
-            "values": [
-                "replace",
-                "add",
-                "accumulate"
-            ],
-            "initial": "replace",
-            "syntax": "animation-composition: replace",
-            "descApple": "animation",
+            "num": 61,
+            "name": "border-image-width",
+            "desc": "요소 테두리 이미지의 너비를 설정합니다.",
+            "values": ["<length-percentage>", "<number>", "auto"],
+            "initial": "1",
+            "syntax": "border-image-width: auto;",
+            "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌚🌚",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "여러 애니메이션이 동일한 속성에 동시에 영향을 미칠 때 사용할 복합 작업 을 지정합니다."
+                "요소 테두리 이미지의 너비를 설정합니다.",
+                "속성의 값이 border-width보다 크다면 테두리 이미지는 안쪽 여백(과 콘텐츠) 영역을 침범하여 그려집니다.",
+                "한 개, 두 개, 세 개, 혹은 네 개의 값으로 지정할 수 있습니다. 음수는 유효하지 않습니다." 
             ]
         },
         {
-            "num": 9,
-            "name": "animation-delay",
-            "desc": "애니메이션을 수행하기 시작하기 전에 요소에 애니메이션을 적용할 때까지 기다려야 하는 시간을 지정합니다.",
-            "values": ["<time>"],
-            "initial": "0s",
-            "syntax": "animation-delay: 0s",
-            "descApple": "animation",
+            "num": 62,
+            "name": "border-inline",
+            "desc": "스타일 시트의 한 위치에 개별 논리적 인라인 테두리 속성 값을 설정하기 위한 약식 속성입니다.",
+            "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
+            "initial": "border-top-width: medium, border-top-style: none, border-top-color: currentcolor",
+            "syntax": "border-inline: medium dashed blue;",
+            "descApple": "all elements",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌝🌝",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "애니메이션을 수행하기 시작하기 전에 요소에 애니메이션을 적용할 때까지 기다려야 하는 시간을 지정합니다.",
-                "애니메이션은 나중에 시작하거나 처음부터 즉시 시작하거나 애니메이션의 즉시 및 중간에 시작할 수 있습니다."
+                "스타일 시트의 한 위치에 개별 논리적 인라인 테두리 속성 값을 설정하기 위한 약식 속성입니다."
             ]
         },
         {
-            "num": 10,
-            "name": "animation-direction",
-            "desc": "애니메이션이 앞으로, 뒤로 또는 시퀀스를 앞뒤로 재생하는 사이에 앞뒤로 번갈아 재생해야 하는지 여부를 설정합니다.",
-            "values": ["normal", "reverse", "alternate", "alternate-reverse"],
+            "num": 63,
+            "name": "border-inline-color",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 테두리 색상을 정의합니다.",
+            "values": ["<'color'>"],
+            "initial": "currentcolor",
+            "syntax": "border-inline-color: currentcolor",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 테두리 색상을 정의합니다."
+            ]
+        },
+        {
+            "num": 64,
+            "name": "border-inline-end",
+            "desc": "스타일 시트의 한 위치에서 개별 논리적 인라인 끝 테두리 속성 값을 설정하기 위한 약식 속성입니다.",
+            "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
+            "initial": "border-width, border-style: as each of the properties of the shorthand, color: canvastext",
+            "syntax": "border-inline-end: medium dashed blue;",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "스타일 시트의 한 위치에서 개별 논리적 인라인 끝 테두리 속성 값을 설정하기 위한 약식 속성입니다."
+            ]
+        },
+        {
+            "num": 65,
+            "name": "border-inline-end-color",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 끝 테두리 색상을 정의합니다.",
+            "values": ["<'color'>"],
+            "initial": "currentcolor",
+            "syntax": "border-inline-end-color: currentcolor;",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 끝 테두리 색상을 정의합니다."
+            ]
+        },
+        {
+            "num": 66,
+            "name": "border-inline-end-style",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 끝 테두리 스타일을 정의합니다.",
+            "values": ["<'border-style'>"],
+            "initial": "none",
+            "syntax": "border-inline-end-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 끝 테두리 스타일을 정의합니다."
+            ]
+        },
+        {
+            "num": 67,
+            "name": "border-inline-end-width",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 끝 테두리 너비를 정의합니다.",
+            "values": ["<'border-width'>"],
+            "initial": "medium",
+            "syntax": "border-inline-end-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 끝 테두리 너비를 정의합니다."
+            ]
+        },
+        {
+            "num": 68,
+            "name": "border-inline-start",
+            "desc": "스타일 시트의 한 곳에서 개별 논리적 인라인 시작 테두리 속성 값을 설정하기 위한 약식 속성입니다.",
+            "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
+            "initial": "border-width, border-style: as each of the properties of the shorthand, color: canvastext",
+            "syntax": "border-inline-start: medium dashed green",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "스타일 시트의 한 곳에서 개별 논리적 인라인 시작 테두리 속성 값을 설정하기 위한 약식 속성입니다."
+            ]
+        },
+        {
+            "num": 69,
+            "name": "border-inline-start-color",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 시작 테두리 색상을 정의합니다.",
+            "values": ["<'color'>"],
+            "initial": "currentcolor",
+            "syntax": "border-inline-start-color: currentcolor",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 시작 테두리 색상을 정의합니다."
+            ]
+        },
+        {
+            "num": 70,
+            "name": "border-inline-start-style",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 시작 테두리 스타일을 정의합니다.",
+            "values": ["<'border-style'>"],
+            "initial": "none",
+            "syntax": "border-inline-start-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 시작 테두리 스타일을 정의합니다."
+            ]
+        },
+        {
+            "num": 71,
+            "name": "border-inline-start-width",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 시작 테두리 너비를 정의합니다.",
+            "values": ["<'border-width'>"],
+            "initial": "medium",
+            "syntax": "border-inline-start-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 시작 테두리 너비를 정의합니다."
+            ]
+        },
+        {
+            "num": 72,
+            "name": "border-inline-style",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 테두리 스타일을 정의합니다.",
+            "values": ["<'border-style'>"],
+            "initial": "none",
+            "syntax": "border-inline-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 테두리 스타일을 정의합니다."
+            ]
+        },
+        {
+            "num": 73,
+            "name": "border-inline-width",
+            "desc": "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 테두리 너비를 정의합니다.",
+            "values": ["<'border-width'>"],
+            "initial": "medium",
+            "syntax": "border-inline-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 테두리 너비를 정의합니다."
+            ]
+        },
+        {
+            "num": 74,
+            "name": "border-left",
+            "desc": "요소의 왼쪽 테두리를 설정합니다.",
+            "values": ["<br-width>", "<br-style>", "<color>"],
+            "initial": "border-left-width: medium, border-left-style: none, border-left-color: currentcolor",
+            "syntax": "border-left: 4px dashed blue;",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★☆",
+            "definition": [
+                "요소의 왼쪽 테두리를 설정합니다.",
+                "border-left-width, border-left-style, border-left-color의 값을 지정합니다.",
+                "border-left은 한 개에서 세 개의 값을 사용해 지정할 수 있고, 순서는 상관하지 않습니다."
+            ]
+        },
+        {
+            "num": 75,
+            "name": "border-left-color",
+            "desc": "요소의 왼쪽 테두리 색상을 지정합니다.",
+            "values": ["<color>"],
+            "initial": "currentcolor",
+            "syntax": "border-left-color: currentcolor",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 왼쪽 테두리 색상을 지정합니다.",
+                "border-color 또는 border-left 단축 속성으로도 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 76,
+            "name": "border-left-style",
+            "desc": "요소 테두리의 왼쪽 스타일을 지정합니다.",
+            "values": ["<line-style>"],
+            "initial": "none",
+            "syntax": "border-left-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소 테두리의 왼쪽 스타일을 지정합니다.",
+                "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 77,
+            "name": "border-left-width",
+            "desc": "요소의 왼쪽 테두리 너비를 지정합니다.",
+            "values": ["<line-width>"],
+            "initial": "medium",
+            "syntax": "border-left-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 왼쪽 테두리 너비를 지정합니다."
+            ]
+        },
+        {
+            "num": 78,
+            "name": "border-radius",
+            "desc": "요소 테두리 경계의 꼭짓점을 둥글게 만듭니다.",
+            "values": ["<length>", "<percentage>"],
+            "initial": "0",
+            "syntax": "border-radius: 0",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★★",
+            "definition": [
+                "요소 테두리 경계의 꼭짓점을 둥글게 만듭니다.",
+                "하나의 값을 사용해 원형 꼭짓점을, 두 개의 값을 사용해 타원형 꼭짓점을 적용할 수 있습니다."
+            ]
+        },
+        {
+            "num": 79,
+            "name": "border-right",
+            "desc": "요소의 오른쪽 테두리를 설정합니다.",
+            "values": ["<br-width>", "<br-style>", "<color>"],
+            "initial": "border-right-width: medium, border-right-style: none, border-right-color: currentcolor",
+            "syntax": "border-right: 4px dashed blue",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★☆",
+            "definition": [
+                "요소의 오른쪽 테두리를 설정합니다.",
+                "border-right-width, border-right-style, border-right-color의 값을 지정합니다."
+            ]
+        },
+        {
+            "num": 80,
+            "name": "border-right-color",
+            "desc": "요소의 오른쪽 테두리 색상을 지정합니다.",
+            "values": ["<color>"],
+            "initial": "currentcolor",
+            "syntax": "border-right-color: currentcolor",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 오른쪽 테두리 색상을 지정합니다.",
+                "border-color 또는 border-right 단축 속성으로도 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 81,
+            "name": "border-right-style",
+            "desc": "요소 테두리의 오른쪽 스타일을 지정합니다.",
+            "values": ["<line-style>"],
+            "initial": "none",
+            "syntax": "border-right-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소 테두리의 오른쪽 스타일을 지정합니다.",
+                "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 82,
+            "name": "border-right-width",
+            "desc": "요소의 오른쪽 테두리 너비를 지정합니다.",
+            "values": ["<line-width>"],
+            "initial": "medium",
+            "syntax": "border-right-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 오른쪽 테두리 너비를 지정합니다."
+            ]
+        },
+        {
+            "num": 83,
+            "name": "border-spacing",
+            "desc": "인접한 표 칸의 테두리 간격을 지정합니다.",
+            "values": ["<length>"],
+            "initial": "0",
+            "syntax": "border-spacing: 0",
+            "descApple": "table and inline-table elements",
+            "descVer": "CSS3",
+            "descStar": "★★★☆☆",
+            "definition": [
+                "인접한 표 칸의 테두리 간격을 지정합니다.",
+                "border-collapse가 separate여야 적용됩니다."
+            ]
+        },
+        {
+            "num": 84,
+            "name": "border-start-end-radius",
+            "desc": "요소의 논리적 테두리 반경을 정의합니다.",
+            "values": ["<length-percentage>"],
+            "initial": "0",
+            "syntax": "border-start-end-radius: 0",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 논리적 테두리 반경을 정의합니다.",
+                "이것은 텍스트 방향 및 쓰기 모드에 관계없이 작동하는 스타일을 빌드할 때 유용합니다."
+            ]
+        },
+        {
+            "num": 85,
+            "name": "border-start-start-radius",
+            "desc": "요소의 논리적 테두리 반경을 정의합니다.",
+            "values": ["<length-percentage>"],
+            "initial": "0",
+            "syntax": "border-start-start-radius: 0",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 논리적 테두리 반경을 정의합니다.",
+                "이것은 텍스트 방향 및 쓰기 모드 에 관계없이 작동하는 스타일을 빌드할 때 유용합니다."
+            ]
+        },
+        {
+            "num": 86,
+            "name": "border-style",
+            "desc": "요소 테두리 네 면의 스타일을 지정합니다.",
+            "values": ["<line-style>"],
+            "initial": "none",
+            "syntax": "border-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★☆☆",
+            "definition": [
+                "요소 테두리 네 면의 스타일을 지정합니다.",
+                "한 개에서 네 개의 값을 사용해 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 87,
+            "name": "border-top",
+            "desc": "요소의 위쪽 테두리를 설정합니다.",
+            "values": ["<br-width>", "<br-style>", "<color>"],
+            "initial": "border-top-width: medium, border-top-style: none, border-top-color: currentcolor",
+            "syntax": "border-top: 4px dashed blue",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★☆",
+            "definition": [
+                "요소의 위쪽 테두리를 설정합니다.",
+                "border-top-width, border-top-style, border-top-color의 값을 지정합니다."
+            ]
+        },
+        {
+            "num": 88,
+            "name": "border-top-color",
+            "desc": "요소의 위쪽 테두리 색상을 지정합니다.",
+            "values": ["<color>"],
+            "initial": "currentcolor",
+            "syntax": "border-top-color: currentcolor",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 위쪽 테두리 색상을 지정합니다.",
+                "border-color 또는 border-top 단축 속성으로도 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 89,
+            "name": "border-top-left-radius",
+            "desc": "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 왼쪽 위 모서리를 반올림합니다.",
+            "values": ["<length-percentage>"],
+            "initial": "0",
+            "syntax": "border-top-left-radius: 0",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 왼쪽 위 모서리를 반올림합니다."
+            ]
+        },
+        {
+            "num": 90,
+            "name": "border-top-right-radius",
+            "desc": "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 오른쪽 위 모서리를 반올림합니다.",
+            "values": ["<length-percentage>"],
+            "initial": "0",
+            "syntax": "border-top-right-radius: 0",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 오른쪽 위 모서리를 반올림합니다."
+            ]
+        },
+        {
+            "num": 91,
+            "name": "border-top-style",
+            "desc": "요소 테두리의 위쪽 스타일을 지정합니다.",
+            "values": ["<line-style>"],
+            "initial": "none",
+            "syntax": "border-top-style: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소 테두리의 위쪽 스타일을 지정합니다.",
+                "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 92,
+            "name": "border-top-width",
+            "desc": "요소의 위쪽 테두리 너비를 지정합니다.",
+            "values": ["<line-width>"],
+            "initial": "medium",
+            "syntax": "border-top-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 위쪽 테두리 너비를 지정합니다."
+            ]
+        },
+        {
+            "num": 93,
+            "name": "border-width",
+            "desc": "요소 네 면 테두리의 너비를 설정합니다.",
+            "values": ["<line-width>"],
+            "initial": "medium",
+            "syntax": "border-width: medium",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★☆☆",
+            "definition": [
+                "요소 네 면 테두리의 너비를 설정합니다.",
+                "한 개에서 네 개의 값을 사용해 지정할 수 있습니다."
+            ]
+        },
+        {
+            "num": 94,
+            "name": "bottom",
+            "desc": "배치된 요소의 수직 위치 설정에 참여합니다.",
+            "values": ["<length>", "<percentage>", "auto", "inherit"],
+            "initial": "auto",
+            "syntax": "bottom: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★★",
+            "definition": [
+                "배치된 요소의 수직 위치 설정에 참여합니다.",
+                "위치가 지정되지 않은 요소에는 영향을 주지 않습니다."
+            ]
+        },
+        {
+            "num": 95,
+            "name": "box-decoration-break",
+            "desc": "여러 줄, 열 또는 페이지에 걸쳐 분할될 때 요소의 조각을 렌더링하는 방법을 지정합니다.",
+            "values": ["slice", "clone"],
+            "initial": "slice",
+            "syntax": "box-decoration-break: slice",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "여러 줄, 열 또는 페이지에 걸쳐 분할될 때 요소의 조각을 렌더링하는 방법을 지정합니다."
+            ]
+        },
+        {
+            "num": 96,
+            "name": "box-shadow",
+            "desc": "요소의 테두리를 감싼 그림자 효과를 추가합니다.",
+            "values": ["inset", "<offset-x>, <offset-y>", "<blur-radius>", "<spread-radius>", "<color>"],
+            "initial": "none",
+            "syntax": "box-shadow: none",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★★★★☆",
+            "definition": [
+                "요소의 테두리를 감싼 그림자 효과를 추가합니다.",
+                "쉼표로 구분해서 여러 그림자 효과를 입힐 수 있습니다.",
+                "박스 그림자는 요소에서의 수평수직 거리(오프셋), 흐릿함과 확산 정도, 색상으로 이루어집니다."
+            ]
+        },
+        {
+            "num": 97,
+            "name": "box-sizing",
+            "desc": "요소의 너비와 높이를 계산하는 방법을 지정합니다.",
+            "values": ["content-box", "border-box"],
+            "initial": "content-box",
+            "syntax": "box-sizing: content-box",
+            "descApple": "all elements that accept width or height",
+            "descVer": "CSS3",
+            "descStar": "★★★★★",
+            "definition": [
+                "요소의 너비와 높이를 계산하는 방법을 지정합니다."
+            ]
+        }
+        ,
+        {
+            "num": 98,
+            "name": "break-after",
+            "desc": "생성된 상자 이후에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+            "values": ["auto", "avoid", "avoid-page", "page", "left", "right", "avoid-column", "column"],
+            "initial": "auto",
+            "syntax": "break-after: auto",
+            "descApple": "block-level elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "생성된 상자 이후에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+                "생성된 상자가 없으면 속성이 무시됩니다."
+            ]
+        },
+        {
+            "num": 99,
+            "name": "break-before",
+            "desc": "생성된 상자 전에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+            "values": ["auto", "avoid", "avoid-page", "page", "left", "right", "avoid-column", "column"],
+            "initial": "auto",
+            "syntax": "break-before: auto",
+            "descApple": "block-level elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "생성된 상자 전에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+                "생성된 상자가 없으면 속성이 무시됩니다."
+            ]
+        },
+        {
+            "num": 100,
+            "name": "break-inside",
+            "desc": "생성된 상자 내에서 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+            "values": ["auto", "avoid", "avoid-page", "avoid-column"],
+            "initial": "auto",
+            "syntax": "break-inside: auto",
+            "descApple": "block-level elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "생성된 상자 내에서 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
+                "생성된 상자가 없으면 속성이 무시됩니다."
+            ]
+        },
+        {
+            "num": 101,
+            "name": "caption-side",
+            "desc": "테이블의 내용을 지정된 쪽에 배치합니다.",
+            "values": ["top", "bottom", "block-start", "block-end", "inline-start", "inline-end"],
+            "initial": "top",
+            "syntax": "caption-side: top",
+            "descApple": "table-caption elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "테이블의 내용을 지정된 쪽에 배치합니다.",
+                "값은 테이블을 기준으로 합니다."
+            ]
+        },
+        {
+            "num": 102,
+            "name": "caret-color",
+            "desc": "텍스트 입력 커서(삽입 캐럿)의 색상을 설정합니다.",
+            "values": ["auto", "<color>"],
+            "initial": "auto",
+            "syntax": "caret-color: auto",
+            "descApple": "all elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "텍스트 입력 커서(삽입 캐럿)의 색상을 설정합니다."
+            ]
+        },
+        {
+            "num": 103,
+            "name": "clear",
+            "desc": "요소가 선행 부동(floating) 요소 다음일 수 있는지 또는 그 아래로 내려가(해제되어(cleared))야 하는 지를 지정합니다.",
+            "values": ["none", "left", "right", "both", "inline-start", "inline-end"],
+            "initial": "none",
+            "syntax": "clear: none",
+            "descApple": "all the block-level elements",
+            "descVer": "CSS3",
+            "descStar": "★★★☆☆",
+            "definition": [
+                "요소가 선행 부동(floating) 요소 다음일 수 있는지 또는 그 아래로 내려가(해제되어(cleared))야 하는 지를 지정합니다.",
+                "부동 및 비부동 요소 모두에 적용됩니다."
+            ]
+        },
+        {
+            "num": 104,
+            "name": "clip",
+            "desc": "요소의 보이는 부분을 정의합니다.",
+            "values": ["<shape()>", "auto"],
+            "initial": "auto",
+            "syntax": "clip: auto",
+            "descApple": "absolutely positioned elements",
+            "descVer": "CSS3",
+            "descStar": "☆☆☆☆☆",
+            "definition": [
+                "요소의 보이는 부분을 정의합니다.",
+                "이 기능은 더 이상 권장되지 않습니다. clip-path 속성을 대신 사용하는 것이 좋습니다."
+            ]
+        },
+        {
+            "num": 105,
+            "name": "clip-path",
+            "desc": "요소의 클리핑 범위를 지정합니다. 클리핑 범위 안의 부분은 보여지고, 바깥은 숨겨집니다.",
+            "values": ["<clip-source>", "<basic-shape>", "<geometry-box>", "margin-box", "border-box", "padding-box", "content-box", "fill-box", "stroke-box", "view-box", "none"],
+            "initial": "none",
+            "syntax": "clip-path: none",
+            "descApple": "absolutely positioned elements",
+            "descVer": "CSS3",
+            "descStar": "★★☆☆☆",
+            "definition": [
+                "요소의 클리핑 범위를 지정합니다. 클리핑 범위 안의 부분은 보여지고, 바깥은 숨겨집니다."
+            ]
+        },
+        {
+            "num": 106,
+            "name": "color",
+            "desc": "요소의 글씨 및 글씨 장식의 전경색과 <currentcolor>의 값을 설정합니다.",
+            "values": ["<color>"],
+            "initial": "canvastext",
+            "syntax": "color: canvastext",
+            "descApple": "all elements and text. It also applies to ::first-letter (en-US) and ::first-line (en-US).",
+            "descVer": "CSS3",
+            "descStar": "★★★★★",
+            "definition": [
+                "요소의 글씨 및 글씨 장식의 전경색과 <currentcolor>의 값을 설정합니다.",
+                "currentcolor는 다른 속성에서 사용할 수 있는 간접적인 값이며, border-color 등 일부 속성의 기본값입니다."
+            ]
+        },
+        {
+            "num": 107,
+            "name": "color-scheme",
+            "desc": "요소가 편안하게 렌더링할 수 있는 color-scheme색 구성표를 나타낼 수 있습니다.",
+            "values": ["normal", "light", "dark", "only"],
             "initial": "normal",
-            "syntax": "animation-direction: normal",
-            "descApple": "animation",
+            "syntax": "color-scheme: normal",
+            "descApple": "all elements and text",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌚🌚",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "애니메이션이 앞으로, 뒤로 또는 시퀀스를 앞뒤로 재생하는 사이에 앞뒤로 번갈아 재생해야 하는지 여부를 설정합니다."
+                "요소가 편안하게 렌더링할 수 있는 color-scheme색 구성표를 나타낼 수 있습니다."
             ]
         },
         {
-            "num": 11,
-            "name": "animation-duration",
-            "desc": "애니메이션이 한 주기를 완료하는 데 걸리는 시간을 설정합니다.",
-            "values": ["<time>"],
-            "initial": "0s",
-            "syntax": "animation-duration: 0s",
-            "descApple": "animation",
+            "num": 108,
+            "name": "column-count",
+            "desc": "요소의 내용을 지정된 수의 열로 나눕니다.",
+            "values": ["auto", "<integer>"],
+            "initial": "auto",
+            "syntax": "column-count: auto",
+            "descApple": "Block containers except table wrapper boxes",
             "descVer": "CSS3",
-            "descStar": "🌝🌝🌝🌚🌚",
+            "descStar": "★☆☆☆☆",
             "definition": [
-                "애니메이션이 한 주기를 완료하는 데 걸리는 시간을 설정합니다."
+                "요소의 내용을 지정된 수의 열로 나눕니다."
+            ]
+        },
+        {
+            "num": 109,
+            "name": "column-fill",
+            "desc": "열로 나눌 때 요소의 내용이 균형을 이루는 방법을 제어합니다.",
+            "values": ["auto", "balance"],
+            "initial": "balance",
+            "syntax": "column-fill: balance",
+            "descApple": "multicol elements",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "열로 나눌 때 요소의 내용이 균형을 이루는 방법을 제어합니다."
+            ]
+        },
+        {
+            "num": 110,
+            "name": "column-gap (grid-column-gap)",
+            "desc": "요소의 열 사이 의 간격(거터) 크기를 설정합니다.",
+            "values": ["normal", "<length>", "<percentage>"],
+            "initial": "normal",
+            "syntax": "column-gap (grid-column-gap): normal",
+            "descApple": "multi-column elements, flex containers, grid containers",
+            "descVer": "CSS3",
+            "descStar": "★☆☆☆☆",
+            "definition": [
+                "요소의 열 사이 의 간격(거터) 크기를 설정합니다."
             ]
         }
     ]
