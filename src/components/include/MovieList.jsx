@@ -1,17 +1,38 @@
-import React from 'react'
+import React from "react";
 
-const MovieList = props => {
+const MoviePopular = (props) => {
   return (
     <li>
-        <a href={`https://api.themoviedb.org/3/search/movie/popular?api_key=4dce5e2aa071cda3c95daac64628defc&query=marble`}>
-          <img src={`https://api.themoviedb.org/3/search/movie/popular?api_key=4dce5e2aa071cda3c95daac64628defc&query=marble`} alt={props.movie.title} />
-          <em>
-            <span className="title">{props.movie.title}</span>
-            <span className="star">{props.movie.vote_average}</span>
-          </em>
-        </a>
-      </li>
-  )
-}
+      <a href={`https://www.themoviedb.org/movie/${props.movie.id}`}>
+        <span className="ranking">{props.rank + 1}</span>
+        <span className="vote_average">★ {props.movie.vote_average}</span>
+        <img
+          src={`https://image.tmdb.org/t/p/w500${props.movie.poster_path}`}
+          alt={`${props.movie.title}`}
+        />
+        <span className="original_title">{props.movie.original_title}</span>
+      </a>
+    </li>
+  );
+};
+
+const MovieList = (props) => {
+  return (
+    <section className="movie__list">
+      <div className="container">
+        <h2>Popular Movies</h2>
+        <div className="popular__box">
+          <ul className="moviePop__list">
+            {props.populars.map((movies, index) =>
+              index < 5 ? (
+                <MoviePopular key={index} rank={index} movie={movies} />
+              ) : null
+            )}
+          </ul>
+        </div>
+      </div>
+    </section>
+  );
+};
 
 export default MovieList;

@@ -4,36 +4,42 @@ import Header from "../layout/Header";
 import Contents from "../layout/Contents";
 import Footer from "../layout/Footer";
 import Title from "../layout/Title";
-import MovieList from "../include/MovieList";
 import MovieSearch from "../include/MovieSearch";
+import MovieList from "../include/MovieList";
 import MovieCont from "../include/MovieCont";
 import Contact from "../layout/Contact";
 
 const Movie = () => {
   const [movies, setMovies] = useState([]);
-
-  const movieList = (query) => {
-    fetch(`https://api.themoviedb.org/3/search/movie/popular?api_key=4dce5e2aa071cda3c95daac64628defc&query=marble`)
-    .then(response => response.json())
-    // .then((result) => console.log(result.results))
-    .then((result) => setMovies(result.results))
-    .catch(error => console.log(error));
-  }
-
-  const search = (query) => {
-    fetch(`https://api.themoviedb.org/3/search/movie?api_key=4dce5e2aa071cda3c95daac64628defc&query=${query}`)
-    .then(response => response.json())
-    // .then((result) => console.log(result.results))
-    .then((result) => setMovies(result.results))
-    .catch(error => console.log(error));
-  }
+  const [populars, setPopulars] = useState([]);
 
   useEffect(() => {
-    fetch("https://api.themoviedb.org/3/search/movie?api_key=4dce5e2aa071cda3c95daac64628defc&query=marble")
-    .then(response => response.json())
-    // .then((result) => console.log(result.results))
-    .then((result) => setMovies(result.results))
-    .catch(error => console.log(error));
+    fetch(
+      "https://api.themoviedb.org/3/movie/popular?api_key=191b7edccc4ad9d9ad42c6a2cce972d7"
+    )
+      .then((response) => response.json())
+      .then((result) => setPopulars(result.results))
+      .catch((error) => console.log("error", error));
+  }, []);
+
+  const search = (query) => {
+    fetch(
+      `https://api.themoviedb.org/3/search/movie?api_key=191b7edccc4ad9d9ad42c6a2cce972d7&query=${query}`
+    )
+      .then((response) => response.json())
+      // .then((result) => console.log(result.results))
+      .then((result) => setMovies(result.results))
+      .catch((error) => console.log("error", error));
+  };
+
+  useEffect(() => {
+    fetch(
+      "https://api.themoviedb.org/3/search/movie?api_key=191b7edccc4ad9d9ad42c6a2cce972d7&query=mission"
+    )
+      .then((response) => response.json())
+      // .then((result) => console.log(result.results))
+      .then((result) => setMovies(result.results))
+      .catch((error) => console.log("error", error));
   }, []);
 
   return (
@@ -41,7 +47,7 @@ const Movie = () => {
       <Header />
       <Contents>
         <Title title={["movie", "reference api"]} />
-        {/* <MovieList /> */}
+        <MovieList populars={populars} />
         <MovieSearch onSearch={search} />
         <MovieCont movies={movies} />
         <Contact />
