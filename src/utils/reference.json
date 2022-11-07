@@ -10,7 +10,7 @@
       "syntax": "accent-color: hsl(228, 4%, 24%)",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "한 줄의 코드로 브랜드 색상을 기본 제공 HTML 양식 입력으로 가져옵니다."
       ]
@@ -38,7 +38,7 @@
       "syntax": "align-content: first baseline",
       "descApple": "multi-line flex containers",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
         "단일 라인 플렉스 컨테이너에는 영향을 주지 않습니다."
@@ -66,7 +66,7 @@
       "syntax": "align-items: first baseline",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "아이템의 내부 상하관계 정렬 상태를 설정합니다.",
         "그리드 레이아웃에서는 그리드 영역 내에서 블록 축의 항목 정렬을 제어합니다."
@@ -93,7 +93,7 @@
       "syntax": "align-self: safe center",
       "descApple": "flex items, grid items, and absolutely-positioned boxes",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
         "그리드에서는 그리드 영역 내부에 항목을 정렬합니다.",
@@ -109,7 +109,7 @@
       "syntax": "all: initial | inherit | unset | revert",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "CSS 사용자 지정 속성을 제외한 모든 속성을 초기화합니다.",
         "초깃값, 상속값, 아니면 다른 스타일시트 출처의 값으로 설정할 수 있습니다."
@@ -130,7 +130,7 @@
       "syntax": "animation: <single-animation>",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["애니메이션과 관련된 속성을 일괄적으로 설정합니다."]
     },
     {
@@ -142,7 +142,7 @@
       "syntax": "animation-delay: 2.1s, 480ms",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["애니메이션 지연 시간을 설정합니다."]
     },
     {
@@ -154,7 +154,7 @@
       "syntax": "animation-direction: alternate, reverse, normal",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["애니메이션 움직임 방향을 설정합니다."]
     },
     {
@@ -166,7 +166,7 @@
       "syntax": "animation-duration: 10s, 35s, 230ms",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["애니메이션 움직임 시간을 설정합니다."]
     },
     {
@@ -178,7 +178,7 @@
       "syntax": "animation-fill-mode: both, forwards, none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["애니메이션이 끝난 후의 상태를 설정합니다."]
     },
     {
@@ -190,7 +190,7 @@
       "syntax": "animation-iteration-count: 2, 0, infinite",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["애니메이션의 반복 횟수를 설정합니다."]
     },
     {
@@ -202,7 +202,7 @@
       "syntax": "animation-name: none, -moz-specific, sliding",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "애니메이션 keyframe 이름을 설정합니다.",
         "지정된 이름이 at-rule과 일치하지 않으면 애니메이션 실행이 되지 않습니다."
@@ -217,7 +217,7 @@
       "syntax": "animation-play-state: paused, running, running",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["애니메이션 진행상태를 설정합니다."]
     },
     {
@@ -229,7 +229,7 @@
       "syntax": "animation-timeline: none, -moz-specific, sliding",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "애니메이션의 진행 상황을 정의하는 타임라인의 이름을 지정합니다."
       ]
@@ -254,7 +254,7 @@
       "syntax": "animation-timing-function: ease, step-start, cubic-bezier(0.1, 0.7, 1, 0.1)",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "각 주기의 지속 시간 동안 애니메이션이 진행되는 방식을 설정합니다."
       ]
@@ -268,7 +268,7 @@
       "syntax": "appearance: none | auto | menulist-button | textfield",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "운영 체제의 테마를 기반으로 하는 UI 컨트롤의 기본 모양을 제어하는 데 사용합니다."
       ]
@@ -282,7 +282,7 @@
       "syntax": "aspect-ratio: 1 / 1",
       "descApple": "all elements except inline boxes and internal ruby or table boxes",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "종횡비를 의미하며 요소의 크기를 비율대로 조정할 수 있도록 합니다."
       ]
@@ -296,7 +296,7 @@
       "syntax": "backdrop-filter: url(filters.svg#filter) blur(4px) saturate(150%)",
       "descApple": "all elements except inline boxes and internal ruby or table boxes",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "요소 뒤 영역에 흐림이나 색상 시프트 등 그래픽 효과를 적용할 수 있는 속성입니다.",
         "요소 뒤 의 모든 것에 적용되기 때문에 효과를 보려면 요소나 배경을 최소한 부분적으로 투명하게 만들어야 합니다."
@@ -311,7 +311,7 @@
       "syntax": "backface-visibility: visible | hidden",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "사용자를 향할 때 요소의 뒷면을 볼 수 있는지 여부를 설정합니다."
       ]
@@ -333,7 +333,7 @@
       "syntax": "backface: green | url('test.jpg') repeat-y | border-box red | no-repeat center/80% url('../img/image.png')",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["백그라운드 속성을 일괄적으로 설정합니다."]
     },
     {
@@ -345,7 +345,7 @@
       "syntax": "background-attachment: fixed | local | scroll",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["백그라운드 속성을 일괄적으로 설정합니다."]
     },
     {
@@ -357,7 +357,7 @@
       "syntax": "background-blend-mode: <mix-blend-mode>",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["배경을 혼합했을 때 그래픽 효과를 설정합니다."]
     },
     {
@@ -369,7 +369,7 @@
       "syntax": "background-clip: inherit | initial | revert | revert-layer | unset",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["백그라운드 이미지의 위치 기준점을 설정합니다."]
     },
     {
@@ -381,7 +381,7 @@
       "syntax": "background-color: <color>",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["백그라운드 색을 설정합니다."]
     },
     {
@@ -393,7 +393,7 @@
       "syntax": "background-image: linear-gradient(to bottom, rgba(255, 255, 0, 0.5), rgba(0, 0, 255, 0.5)), url('catfront.png');",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["백그라운드 이미지 속성을 설정합니다."]
     },
     {
@@ -405,7 +405,7 @@
       "syntax": "background-origin: border-box | padding-box | content-box",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "백그라운드 이미지의 위치 기준점을 설정하기 위한 속성입니다."
       ]
@@ -419,7 +419,7 @@
       "syntax": "background-position: [ center | [ left | right ] <length-percentage>? ] && [ center | [ top | bottom ] <length-percentage>? ]",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["백그라운드 이미지의 위치 영역을 설정합니다."]
     },
     {
@@ -431,7 +431,7 @@
       "syntax": "background-position-x: [ center | [ [ left | right | x-start | x-end ]? <length-percentage>? ]! ]",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["백그라운드 이미지의 x축 위치 영역을 설정합니다."]
     },
     {
@@ -443,7 +443,7 @@
       "syntax": "background-position-y: [ center | [ [ top | bottom | y-start | y-end ]? <length-percentage>? ]! ]",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["백그라운드 이미지의 y축 위치 영역을 설정합니다."]
     },
     {
@@ -455,7 +455,7 @@
       "syntax": "background-repeat: [ repeat | space | round | no-repeat ]{1,2}",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["백그라운드 이미지 반복 여부를 설정합니다."]
     },
     {
@@ -467,7 +467,7 @@
       "syntax": "background-size: [ <length-percentage [0,∞]> | auto ]{1,2}",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["백그라운드 이미지 사이즈를 설정합니다."]
     },
     {
@@ -479,7 +479,7 @@
       "syntax": "block-size: fit-content(20em)",
       "descApple": "same as width and height",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "쓰기 모드에 따라 요소의 블록의 수평 또는 수직 크기를 정의합니다."
       ]
@@ -493,7 +493,7 @@
       "syntax": "border: medium dashed green",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["테두리 속성을 일괄적으로 설정합니다."]
     },
     {
@@ -505,7 +505,7 @@
       "syntax": "border-block: <'border-block-start'>",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["각각의 논리 블록 border 속성 값을 설정합니다."]
     },
     {
@@ -517,7 +517,7 @@
       "syntax": "border-block-color: #f5f6f7",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 색상을 설정합니다."]
     },
     {
@@ -529,7 +529,7 @@
       "syntax": "border-block-end: medium dashed blue",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 끝을 일괄 설정합니다."]
     },
     {
@@ -541,7 +541,7 @@
       "syntax": "border-block-end-color: yellow",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 끝 색상을 설정합니다."]
     },
     {
@@ -553,7 +553,7 @@
       "syntax": "border-block-end-style: dashed | dotted | groove",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 끝 스타일을 설정합니다."]
     },
     {
@@ -565,7 +565,7 @@
       "syntax": "border-block-end-width: thick | 5px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 끝 두께를 설정합니다."]
     },
     {
@@ -577,7 +577,7 @@
       "syntax": "border-block-start: 2px dotted",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 시작을 일괄 설정합니다."]
     },
     {
@@ -589,7 +589,7 @@
       "syntax": "border-block-start-color: #4c5d21",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 시작 색상을 설정합니다."]
     },
     {
@@ -601,7 +601,7 @@
       "syntax": "border-block-start-style: groove",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 시작 스타일을 설정합니다."]
     },
     {
@@ -613,7 +613,7 @@
       "syntax": "border-block-start-width: 5px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 시작 스타일을 설정합니다."]
     },
     {
@@ -625,7 +625,7 @@
       "syntax": "border-block-style: dashed",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 스타일을 설정합니다."]
     },
     {
@@ -637,7 +637,7 @@
       "syntax": "border-block-width: 5px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["보더 블록의 스타일을 설정합니다."]
     },
     {
@@ -649,7 +649,7 @@
       "syntax": "border-bottom: none thick green",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["테두리 하단 속성을 일괄적으로 설정합니다."]
     },
     {
@@ -661,7 +661,7 @@
       "syntax": "border-bottom-color: rgb(255, 0, 0)",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["테두리 아래쪽 색 속성을 설정합니다."]
     },
     {
@@ -673,7 +673,7 @@
       "syntax": "border-bottom-left-radius: 0.5em 1em",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["테두리 하단 좌측 모서리 굴곡 설정합니다."]
     },
     {
@@ -685,7 +685,7 @@
       "syntax": "border-bottom-right-radius: 20% 10%",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["테두리 하단 우측 모서리 굴곡 설정합니다."]
     },
     {
@@ -697,7 +697,7 @@
       "syntax": "border-bottom-style: none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["테두리 아래쪽 스타일 속성을 설정합니다."]
     },
     {
@@ -709,7 +709,7 @@
       "syntax": "border-bottom-width: <length [0,∞]> | thin | medium | thick",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["아래쪽 테두리 너비를 설정합니다."]
     },
     {
@@ -721,7 +721,7 @@
       "syntax": "border-collapse: separate | collapse",
       "descApple": "table and inline-table elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["테두리가 분리될지 또는 상쇄될지를 결정합니다."]
     },
     {
@@ -733,7 +733,7 @@
       "syntax": "border-color: <color>{1,4}",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["모든 면의 테두리 색상을 설정합니다."]
     },
     {
@@ -745,7 +745,7 @@
       "syntax": "border-end-end-radius: 10px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["보더 끝의 끝부분을 둥글게 설정합니다."]
     },
     {
@@ -757,7 +757,7 @@
       "syntax": "border-end-start-radius: 10px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["보더 끝의 시작 부분을 둥글게 설정합니다."]
     },
     {
@@ -775,7 +775,7 @@
       "syntax": "border-image: linear-gradient(red, blue) 27;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 주위에 이미지를 그립니다.",
         "일반 테두리를 대체합니다."
@@ -790,7 +790,7 @@
       "syntax": "border-image-outset: 1rem;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 테두리 상자와 테두리 이미지의 거리를 설정합니다.",
         "border-image-outset으로 인해 요소 바깥에 그려지는 테두리로는 스크롤이 생기지 않으며 마우스 이벤트를 잡아낼 수도 없습니다."
@@ -805,7 +805,7 @@
       "syntax": "border-image-repeat: stretch;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "원본 이미지의 모서리 영역을 요소의 테두리 이미지 크기에 맞춰 조절할 때 사용할 방법을 지정합니다.",
         "한 개 또는 두 개의 값을 사용해 지정할 수 있습니다."
@@ -820,7 +820,7 @@
       "syntax": "border-image-slice: 100%;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "border-image-source로 설정한 이미지를 여러 개의 영역으로 나눕니다.",
         "이렇게 나눠진 영역이 요소의 테두리 이미지를 이룹니다."
@@ -835,7 +835,7 @@
       "syntax": "border-image-source: none;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 테두리 이미지로 사용할 원본 이미지를 지정합니다.",
         "border-image-slice 속성으로 나뉜 구역을 사용해 최종 테두리 이미지를 생성합니다."
@@ -850,7 +850,7 @@
       "syntax": "border-image-width: auto;",
       "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소 테두리 이미지의 너비를 설정합니다.",
         "속성의 값이 border-width보다 크다면 테두리 이미지는 안쪽 여백(과 콘텐츠) 영역을 침범하여 그려집니다.",
@@ -866,7 +866,7 @@
       "syntax": "border-inline: medium dashed blue;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스타일 시트의 한 위치에 개별 논리적 인라인 테두리 속성 값을 설정하기 위한 약식 속성입니다."
       ]
@@ -880,7 +880,7 @@
       "syntax": "border-inline-color: currentcolor",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 테두리 색상을 정의합니다."
       ]
@@ -894,7 +894,7 @@
       "syntax": "border-inline-end: medium dashed blue;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스타일 시트의 한 위치에서 개별 논리적 인라인 끝 테두리 속성 값을 설정하기 위한 약식 속성입니다."
       ]
@@ -908,7 +908,7 @@
       "syntax": "border-inline-end-color: currentcolor;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 끝 테두리 색상을 정의합니다."
       ]
@@ -922,7 +922,7 @@
       "syntax": "border-inline-end-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 끝 테두리 스타일을 정의합니다."
       ]
@@ -936,7 +936,7 @@
       "syntax": "border-inline-end-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 끝 테두리 너비를 정의합니다."
       ]
@@ -950,7 +950,7 @@
       "syntax": "border-inline-start: medium dashed green",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스타일 시트의 한 곳에서 개별 논리적 인라인 시작 테두리 속성 값을 설정하기 위한 약식 속성입니다."
       ]
@@ -964,7 +964,7 @@
       "syntax": "border-inline-start-color: currentcolor",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 색상에 매핑되는 요소의 논리적 인라인 시작 테두리 색상을 정의합니다."
       ]
@@ -978,7 +978,7 @@
       "syntax": "border-inline-start-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 시작 테두리 스타일을 정의합니다."
       ]
@@ -992,7 +992,7 @@
       "syntax": "border-inline-start-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 시작 테두리 너비를 정의합니다."
       ]
@@ -1006,7 +1006,7 @@
       "syntax": "border-inline-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 스타일에 매핑되는 요소의 논리적 인라인 테두리 스타일을 정의합니다."
       ]
@@ -1020,7 +1020,7 @@
       "syntax": "border-inline-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 테두리 너비에 매핑되는 요소의 논리적 인라인 테두리 너비를 정의합니다."
       ]
@@ -1034,7 +1034,7 @@
       "syntax": "border-left: 4px dashed blue;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "요소의 왼쪽 테두리를 설정합니다.",
         "border-left-width, border-left-style, border-left-color의 값을 지정합니다.",
@@ -1050,7 +1050,7 @@
       "syntax": "border-left-color: currentcolor",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 왼쪽 테두리 색상을 지정합니다.",
         "border-color 또는 border-left 단축 속성으로도 지정할 수 있습니다."
@@ -1065,7 +1065,7 @@
       "syntax": "border-left-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소 테두리의 왼쪽 스타일을 지정합니다.",
         "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
@@ -1080,7 +1080,7 @@
       "syntax": "border-left-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["요소의 왼쪽 테두리 너비를 지정합니다."]
     },
     {
@@ -1092,7 +1092,7 @@
       "syntax": "border-radius: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소 테두리 경계의 꼭짓점을 둥글게 만듭니다.",
         "하나의 값을 사용해 원형 꼭짓점을, 두 개의 값을 사용해 타원형 꼭짓점을 적용할 수 있습니다."
@@ -1107,7 +1107,7 @@
       "syntax": "border-right: 4px dashed blue",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "요소의 오른쪽 테두리를 설정합니다.",
         "border-right-width, border-right-style, border-right-color의 값을 지정합니다."
@@ -1122,7 +1122,7 @@
       "syntax": "border-right-color: currentcolor",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 오른쪽 테두리 색상을 지정합니다.",
         "border-color 또는 border-right 단축 속성으로도 지정할 수 있습니다."
@@ -1137,7 +1137,7 @@
       "syntax": "border-right-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소 테두리의 오른쪽 스타일을 지정합니다.",
         "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
@@ -1152,7 +1152,7 @@
       "syntax": "border-right-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["요소의 오른쪽 테두리 너비를 지정합니다."]
     },
     {
@@ -1164,7 +1164,7 @@
       "syntax": "border-spacing: 0",
       "descApple": "table and inline-table elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "인접한 표 칸의 테두리 간격을 지정합니다.",
         "border-collapse가 separate여야 적용됩니다."
@@ -1179,7 +1179,7 @@
       "syntax": "border-start-end-radius: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 테두리 반경을 정의합니다.",
         "이것은 텍스트 방향 및 쓰기 모드에 관계없이 작동하는 스타일을 빌드할 때 유용합니다."
@@ -1194,7 +1194,7 @@
       "syntax": "border-start-start-radius: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 테두리 반경을 정의합니다.",
         "이것은 텍스트 방향 및 쓰기 모드 에 관계없이 작동하는 스타일을 빌드할 때 유용합니다."
@@ -1209,7 +1209,7 @@
       "syntax": "border-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "요소 테두리 네 면의 스타일을 지정합니다.",
         "한 개에서 네 개의 값을 사용해 지정할 수 있습니다."
@@ -1224,7 +1224,7 @@
       "syntax": "border-top: 4px dashed blue",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "요소의 위쪽 테두리를 설정합니다.",
         "border-top-width, border-top-style, border-top-color의 값을 지정합니다."
@@ -1239,7 +1239,7 @@
       "syntax": "border-top-color: currentcolor",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 위쪽 테두리 색상을 지정합니다.",
         "border-color 또는 border-top 단축 속성으로도 지정할 수 있습니다."
@@ -1254,7 +1254,7 @@
       "syntax": "border-top-left-radius: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 왼쪽 위 모서리를 반올림합니다."
       ]
@@ -1268,7 +1268,7 @@
       "syntax": "border-top-right-radius: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "모서리의 곡률을 정의하는 타원의 반지름(또는 반장축 및 반단축의 반지름)을 지정하여 요소의 오른쪽 위 모서리를 반올림합니다."
       ]
@@ -1282,7 +1282,7 @@
       "syntax": "border-top-style: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소 테두리의 위쪽 스타일을 지정합니다.",
         "border-style 속성에 사용할 수 있는 키워드 중 하나를 사용해 지정할 수 있습니다."
@@ -1297,7 +1297,7 @@
       "syntax": "border-top-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["요소의 위쪽 테두리 너비를 지정합니다."]
     },
     {
@@ -1309,7 +1309,7 @@
       "syntax": "border-width: medium",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "요소 네 면 테두리의 너비를 설정합니다.",
         "한 개에서 네 개의 값을 사용해 지정할 수 있습니다."
@@ -1324,7 +1324,7 @@
       "syntax": "bottom: auto",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "배치된 요소의 수직 위치 설정에 참여합니다.",
         "위치가 지정되지 않은 요소에는 영향을 주지 않습니다."
@@ -1339,7 +1339,7 @@
       "syntax": "box-decoration-break: slice",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "여러 줄, 열 또는 페이지에 걸쳐 분할될 때 요소의 조각을 렌더링하는 방법을 지정합니다."
       ]
@@ -1359,7 +1359,7 @@
       "syntax": "box-shadow: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "요소의 테두리를 감싼 그림자 효과를 추가합니다.",
         "쉼표로 구분해서 여러 그림자 효과를 입힐 수 있습니다.",
@@ -1375,7 +1375,7 @@
       "syntax": "box-sizing: content-box",
       "descApple": "all elements that accept width or height",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소의 너비와 높이를 계산하는 방법을 지정합니다."]
     },
     {
@@ -1396,7 +1396,7 @@
       "syntax": "break-after: auto",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "생성된 상자 이후에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
         "생성된 상자가 없으면 속성이 무시됩니다."
@@ -1420,7 +1420,7 @@
       "syntax": "break-before: auto",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "생성된 상자 전에 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
         "생성된 상자가 없으면 속성이 무시됩니다."
@@ -1435,7 +1435,7 @@
       "syntax": "break-inside: auto",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "생성된 상자 내에서 페이지, 열 또는 영역 나누기가 작동하는 방식을 설정합니다.",
         "생성된 상자가 없으면 속성이 무시됩니다."
@@ -1457,7 +1457,7 @@
       "syntax": "caption-side: top",
       "descApple": "table-caption elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "테이블의 내용을 지정된 쪽에 배치합니다.",
         "값은 테이블을 기준으로 합니다."
@@ -1472,7 +1472,7 @@
       "syntax": "caret-color: auto",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["텍스트 입력 커서(삽입 캐럿)의 색상을 설정합니다."]
     },
     {
@@ -1484,7 +1484,7 @@
       "syntax": "clear: none",
       "descApple": "all the block-level elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "요소가 선행 부동(floating) 요소 다음일 수 있는지 또는 그 아래로 내려가(해제되어(cleared))야 하는 지를 지정합니다.",
         "부동 및 비부동 요소 모두에 적용됩니다."
@@ -1499,7 +1499,7 @@
       "syntax": "clip: auto",
       "descApple": "absolutely positioned elements",
       "descVer": "CSS3",
-      "descStar": "☆☆☆☆☆",
+      "descStar": "🌚🌚🌚🌚🌚",
       "definition": [
         "요소의 보이는 부분을 정의합니다.",
         "이 기능은 더 이상 권장되지 않습니다. clip-path 속성을 대신 사용하는 것이 좋습니다."
@@ -1526,7 +1526,7 @@
       "syntax": "clip-path: none",
       "descApple": "absolutely positioned elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 클리핑 범위를 지정합니다. 클리핑 범위 안의 부분은 보여지고, 바깥은 숨겨집니다."
       ]
@@ -1540,7 +1540,7 @@
       "syntax": "color: canvastext",
       "descApple": "all elements and text. It also applies to ::first-letter (en-US) and ::first-line (en-US).",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소의 글씨 및 글씨 장식의 전경색과 <currentcolor>의 값을 설정합니다.",
         "currentcolor는 다른 속성에서 사용할 수 있는 간접적인 값이며, border-color 등 일부 속성의 기본값입니다."
@@ -1555,7 +1555,7 @@
       "syntax": "color-scheme: normal",
       "descApple": "all elements and text",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소가 편안하게 렌더링할 수 있는 color-scheme색 구성표를 나타낼 수 있습니다."
       ]
@@ -1569,7 +1569,7 @@
       "syntax": "column-count: auto",
       "descApple": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소의 내용을 지정된 수의 열로 나눕니다."]
     },
     {
@@ -1581,7 +1581,7 @@
       "syntax": "column-fill: balance",
       "descApple": "multicol elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "열로 나눌 때 요소의 내용이 균형을 이루는 방법을 제어합니다."
       ]
@@ -1595,7 +1595,7 @@
       "syntax": "column-gap (grid-column-gap): normal",
       "descApple": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소의 열 사이 의 간격(거터) 크기를 설정합니다."]
     },
     {
@@ -1611,7 +1611,7 @@
       "syntax": "column-rule : column-rule-width | column-rule-style | column-rule-color",
       "descApple": "multicol elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["컬럼 라인의 가로값, 스타일, 컬러를 정의합니다."]
     },
     {
@@ -1623,7 +1623,7 @@
       "syntax": "column-rule-color : color",
       "descApple": "multicol elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["column-rule-color 속성은 컬럼의 라인 색을 정의합니다."]
     },
     {
@@ -1635,7 +1635,7 @@
       "syntax": "column-rule-style : none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset",
       "descApple": "multicol elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "column-rule-style 속성은 컬럼 라인의 스타일을 정의합니다."
       ]
@@ -1649,7 +1649,7 @@
       "syntax": "column-rule-width : medium | thin | thick | length",
       "descApple": "multicol elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "column-rule-width 속성은 컬럼 라인의 가로값을 정의합니다."
       ]
@@ -1663,7 +1663,7 @@
       "syntax": "column-span : none | all",
       "descApple": "in-flow block-level elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["column-span 속성은 열의 속성을 정의합니다."]
     },
     {
@@ -1675,7 +1675,7 @@
       "syntax": "column-width : auto | length",
       "descApple": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["column-width 속성은 컬럼의 가로 값을 정의합니다."]
     },
     {
@@ -1687,7 +1687,7 @@
       "syntax": "columns : auto | column-width | column-count",
       "descApple": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "columns 속성은 열의 폭과 열의 수를 정의합니다.",
         "column-width와 column-count를 같이 사용할 경우 count가 우선 적용됩니다."
@@ -1711,7 +1711,7 @@
       "syntax": "contain: none;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "작성자가 가능한 한 문서 트리의 나머지 부분과 독립적이라는 것을 나타낼 수 있게 합니다."
       ]
@@ -1733,7 +1733,7 @@
       "syntax": "content : normal | none | counter | attr | string | open-quote | close-quote | no-open-quote | no-close-quote | url",
       "descApple": "All elements, tree-abiding pseudo-elements, and page margin boxes",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["content 속성은 콘텐츠 내용을 설정합니다."]
     },
     {
@@ -1745,7 +1745,7 @@
       "syntax": "content-visibility: visible;",
       "descApple": "elementsForWhichLayoutContainmentCanApply",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소가 콘텐츠를 렌더링하는지 여부를 제어합니다."]
     },
     {
@@ -1757,7 +1757,7 @@
       "syntax": "counter-increment : my-counter; | my-counter -1; | counter1 counter2 -4; | none | inherit | initial | revert | revert-layer | unset;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["콘텐츠의 순서 상태를 정의합니다."]
     },
     {
@@ -1769,7 +1769,7 @@
       "syntax": "counter-reset : none | name | number;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["counter-reset 속성은 콘텐츠의 숫자를 초기화합니다."]
     },
     {
@@ -1781,7 +1781,7 @@
       "syntax": "counter-set : none | name | number;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["CSS 카운터(콘텐츠 모양 조정)를 주어진 값으로 설정합니다."]
     },
     {
@@ -1793,7 +1793,7 @@
       "syntax": "cursor : alias | all-scroll | auto | cell | context-menu | col-resize | copy | crosshair | default | e-resize | ew-resize | grab | grabbing | help | move | n-resize | ne-resize | nesw-resize | ns-resize | nw-resize | nwse-resize | no-drop | none | not-allowed | pointer | progress | row-resize | s-resize | se-resize | sw-resize | text | URL | vertical-text | w-resize | wait | zoom-in | zoom-out",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["cursor 속성은 마우스 오버시 마우스 포인터를 정의합니다."]
     },
     {
@@ -1805,7 +1805,7 @@
       "syntax": "direction : ltr | rtl",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["direction 속성은 문장의 방향을 설정합니다."]
     },
     {
@@ -1825,7 +1825,7 @@
       "syntax": "display : inline | block | flex | inline-block | inline-flex | inline-table | list-item | run-in | table | table-caption | table-column-group | table-header-group | table-footer-group | table-row-group | table-cell | table-column | table-row | none",
       "descApple": "all elements",
       "descVer": "CSS1",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["display 속성은 요소의 성질을 정의합니다."]
     },
     {
@@ -1837,7 +1837,7 @@
       "syntax": "empty-cells : show | hide",
       "descApple": "table-cell elements",
       "descVer": "CSS2",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["empty-cells 속성은 테이블의 빈요소의 속성을 설정합니다."]
     },
     {
@@ -1863,7 +1863,7 @@
       "syntax": "filter : none | blur() | brightness() | contrast() | drop-shadow() | grayscale() | hue-rotate() | invert() | opacity() | saturate() | sepia() | url()",
       "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "filter 속성은 그래픽 효과를 설정합니다.",
         "hue-rotate()는 0deg~360deg까지 표현합니다."
@@ -1885,7 +1885,7 @@
       "syntax": "flex : flex-grow | flex-shrink | flex-basis | auto",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["flex 속성은 콘텐츠의 성질을 flex로 정의합니다."]
     },
     {
@@ -1897,7 +1897,7 @@
       "syntax": "flex-basis : number | auto",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["flex-basis 속성은 요소의 기본 단위를 정의합니다."]
     },
     {
@@ -1909,7 +1909,7 @@
       "syntax": "flex-direction : row | row-reverse | column | column-reverse",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["flex-direction 속성은 요소의 정렬 방향을 정의합니다."]
     },
     {
@@ -1921,7 +1921,7 @@
       "syntax": "flex-flow : flex-direction | flex-wrap",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "flex-flow 속성은 요소의 정렬 방향과 줄 속성을 설정합니다."
       ]
@@ -1935,7 +1935,7 @@
       "syntax": "flex-grow : number",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["flex-grow 속성은 요소의 크기를 숫자를 통해 정의합니다."]
     },
     {
@@ -1947,7 +1947,7 @@
       "syntax": "flex-shrink : number",
       "descApple": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "flex-grow 속성은 요소의 크기를 숫자를 통해 줄여줍니다.",
         "flex-shrink: 0;을 사용하면 flex-basis의 속성값을 설정합니다."
@@ -1962,7 +1962,7 @@
       "syntax": "flex-wrap : nowrap | wrap | wrap-reverse",
       "descApple": "flex containers",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "flex-wrap 속성은 요소의 줄 속성을 설정합니다.",
         "flex-wrap의 속성이 nowrap을 설정되어 있다면 요소의 width값과 height값은 무시가 됩니다."
@@ -1977,7 +1977,7 @@
       "syntax": "float : none | left | right",
       "descApple": "all elements, but has no effect if the value of display is none.",
       "descVer": "CSS1",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["float 속성은 블록요소의 정렬 상태를 설정합니다."]
     },
     {
@@ -1997,7 +1997,7 @@
       "syntax": "font : font-style / font-variant / font-weight / font-stretch / font-size / line-height / font-family | caption | icon | menu | message-box | small-caption | status-bar",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "font 속성은 폰트에 관한 설정을 정의합니다.",
         "font 속성은 폰트 스타일, 폰트 변형, 폰트 두께, 폰트 사이즈, 폰트 간격, 폰트 종류를 설정합니다."
@@ -2021,7 +2021,7 @@
       "syntax": "font-family : font",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "font-family 속성은 폰트 종류를 설정합니다.",
         "사용자 컴퓨터에 서체가 설치돼 있어야 서체가 브라우저에 표현됩니다.",
@@ -2038,7 +2038,7 @@
       "syntax": "font-feature-settings: normal; | font-feature-settings: 'smcp', 'swsh' 2;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["오픈타입 폰트의 다양한 오픈타입 피처를 설정합니다."]
     },
     {
@@ -2050,7 +2050,7 @@
       "syntax": "font-kerning: auto;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["글꼴에 저장된 커닝 정보의 사용을 설정합니다."]
     },
     {
@@ -2062,7 +2062,7 @@
       "syntax": "font-language-override: normal;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["속성은 글꼴에서 언어별 상형문자의 사용을 제어합니다."]
     },
     {
@@ -2074,7 +2074,7 @@
       "syntax": "font-optical-sizing: none | auto | inherit",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "텍스트 렌더링이 다른 크기로 보기에 최적화되었는지 여부를 설정합니다."
       ]
@@ -2096,7 +2096,7 @@
       "syntax": "font-size : medium | xx-small | x-small | small | large|x-large | xx-large | smaller | larger | length",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["글꼴의 크기를 설정합니다."]
     },
     {
@@ -2116,7 +2116,7 @@
       "syntax": "font-size-adjust : number | none",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "font-size-adjust 속성은 소문자를 기준으로 폰트 크기를 설정합니다.",
         "폰트 크기는 대문자를 기준으로 측정이 되지만 CSS3에서 추가된 font-size-adjust 소문자를 기준으로 폰트 크기를 설정 할 수 있습니다."
@@ -2131,7 +2131,7 @@
       "syntax": "font-stretch : ultra-condensed | extra-condensed | condensed | semi-condensed | normal | semi-expanded | expanded | extra-expanded | ultra-expanded",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["font-stretch 속성은 폰트의 굵기를 정의합니다."]
     },
     {
@@ -2143,7 +2143,7 @@
       "syntax": "font-style : normal | italic | oblique",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["font-style 속성은 폰트의 스타일을 정의합니다."]
     },
     {
@@ -2155,7 +2155,7 @@
       "syntax": "font-synthesis : none | weight | style | weight style small-caps;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "브라우저가 굵은 글꼴과 이탤릭 글꼴을 합성하는 것을 허용할지 설정합니다."
       ]
@@ -2169,7 +2169,7 @@
       "syntax": "font-variant : normal | small-caps",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "font-variant 속성은 글꼴의 변형을 정의합니다.",
         "font-variant 속성은 영어만 적용됩니다."
@@ -2193,7 +2193,7 @@
       "syntax": "font-variant-alternates: normal | historical-forms | stylistic(user-defined-ident) | styleset(user-defined-ident) | swash(ident1) annotation(ident2)",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["대체 상형문자의 사용을 제어합니다."]
     },
     {
@@ -2212,7 +2212,7 @@
       "syntax": "font-variant-caps: normal | small-caps",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": ["대문자에 대한 대체 상형문자의 사용을 제어합니다."]
     },
     {
@@ -2224,7 +2224,7 @@
       "syntax": "font-variant-east-asian: normal | ruby | jis78",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "일본어와 중국어와 같은 동아시아 스크립트의 대체 상형문자 사용을 제어합니다."
       ]
@@ -2244,7 +2244,7 @@
       "syntax": "font-variant-ligatures: normal | none | common-ligatures",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "어떤 문맥 형태가 적용되는 요소의 텍스트 콘텐츠에 사용되는지를 제어합니다."
       ]
@@ -2265,7 +2265,7 @@
       "syntax": "font-variant-numeric: normal | ordinal",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "숫자, 분수 및 순서 마커에 대한 대체 상형문자의 사용을 제어합니다."
       ]
@@ -2279,7 +2279,7 @@
       "syntax": "font-variant-position: normal | sub | super",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "상위 문자 또는 첨자로 배치된 대체 더 작은 상형문자의 사용을 제어합니다."
       ]
@@ -2293,7 +2293,7 @@
       "syntax": "font-variation-settings: normal | 'XHGT' 0.7",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "변경할 특성에 대한 네 개의 문자 축 이름을 값과 함께 지정함으로써 가변 글꼴 특성에 대한 낮은 수준의 제어를 제공합니다."
       ]
@@ -2307,7 +2307,7 @@
       "syntax": "font-weight : normal | bold | bolder | lighter | number",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "font-weight 속성은 폰트의 두께를 정의합니다.",
         "font-weight 속성은 폰트 자체가 두께를 지원하지 않으면, 세부적인 두께는 표시되지 않을 수 있습니다."
@@ -2322,7 +2322,7 @@
       "syntax": "forced-color-adjust: auto | none | inherit",
       "descApple": "all elements and text.",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "작성자가 강제 색 모드에서 특정 요소를 선택할 수 있게 합니다."
       ]
@@ -2336,7 +2336,7 @@
       "syntax": "gap: 20px; | gap: 16%; | gap: 20px 10px; | gap: calc(10% + 20px); | gap: calc(10% + 20px);",
       "descApple": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": ["행과 열 사이의 간격(거터)을 설정합니다."]
     },
     {
@@ -2352,7 +2352,7 @@
       "syntax": "grid: none; | 'a' 100px 'b' 1fr; | 200px / auto-flow | auto-flow / 200px",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["2차원(행과 열)의 레이아웃 시스템을 제공합니다"]
     },
     {
@@ -2369,7 +2369,7 @@
       "syntax": "grid-area: auto; | auto / auto / auto / auto; | some-grid-area; | 4 some-grid-area;",
       "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "Grid 라인으로 둘러싸인 사각형 영역으로, 그리드 셀의 집합입니다."
       ]
@@ -2392,7 +2392,7 @@
       "syntax": "grid-auto-columns: min-content | max-content | auto | 100px",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "암시적으로 생성된 그리드 열 트랙 또는 트랙 패턴의 크기를 지정합니다."
       ]
@@ -2406,7 +2406,7 @@
       "syntax": "grid-auto-flow: row | column | dense",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "자동 배치 알고리즘이 어떻게 작동하는지를 제어하며, 자동 배치 항목이 그리드로 어떻게 흐르는지 정확히 지정합니다."
       ]
@@ -2429,7 +2429,7 @@
       "syntax": "grid-auto-rows: auto | min-content | max-conten | 100px",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "암시적으로 생성된 그리드 행 트랙 또는 트랙 패턴의 크기를 지정합니다."
       ]
@@ -2448,7 +2448,7 @@
       "syntax": "grid-column-start: auto; | 1; |  1 / 3;",
       "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "그리드 배치에 자동으로 그리드 열 내의 그리드 항목의 크기와 위치를 지정함으로써 그리드 영역의 인라인 시작과 인라인 끝을 지정합니다."
       ]
@@ -2467,7 +2467,7 @@
       "syntax": "grid-column-end: auto | somegridarea | 2",
       "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "그리드 배치에 자동으로 그리드 열 내에서 그리드 항목의 끝 위치를 지정함으로써 그리드 영역의 블록 끝을 지정합니다."
       ]
@@ -2486,7 +2486,7 @@
       "syntax": "grid-column-start: auto;",
       "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드 배치에 선, 범위 또는 아무것도 제공하지 않음(자동)을 통해 그리드 열 내에서 그리드 항목의 시작 위치를 지정합니다.",
         "시작 위치는 그리드 영역의 블록 시작 가장자리를 정의합니다."
@@ -2506,7 +2506,7 @@
       "syntax": "grid-row-start:auto;, grid-row-end:auto;",
       "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드 배치에 선, 범위 또는 아무 것도 제공하지 않음(자동)으로써 그리드 항목의 크기와 위치를 그리드 행 내에서 지정합니다.",
         "그리드영역의 인라인 시작 및 인라인 끝 가장자리를 지정합니다."
@@ -2526,7 +2526,7 @@
       "syntax": "grid-row-end: auto;",
       "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드 배치에 선, 범위 또는 아무것도 제공하지 않음(자동)으로써 그리드 행 내에서 그리드 항목의 끝 위치를 지정합니다.",
         "그리드 영역 의 인라인 끝 가장자리를 지정합니다."
@@ -2546,7 +2546,7 @@
       "syntax": "grid-row-start: auto;",
       "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드 배치에 선, 범위 또는 아무 것도 제공하지 않음(자동)으로써 그리드 행 내에서 그리드 항목의 시작 위치를 지정합니다.",
         "그리드 영역 의 인라인 시작 가장자리를 지정합니다 ."
@@ -2561,7 +2561,7 @@
       "syntax": "grid-template-columns: none, grid-template-rows: none, grid-template-areas: none",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚🌚",
       "definition": [
         "그리드 열 , 그리드 행 및 그리드 영역 을 정의하기 위한 약식 속성입니다 ."
       ]
@@ -2575,7 +2575,7 @@
       "syntax": "grid-template-areas: none;",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "격자 영역 을 지정하고 격자에 셀을 설정하고 이름을 할당합니다."
       ]
@@ -2598,7 +2598,7 @@
       "syntax": "grid-template-columns: none;",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "컨테이너에 grid 트랙의 크기들을 지정해주는 속성으로 열의 배치를 의미합니다."
       ]
@@ -2621,7 +2621,7 @@
       "syntax": "grid-template-rows: none;",
       "descApple": "grid containers",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "컨테이너에 grid 트랙의 크기들을 지정해주는 속성으로 행의 배치를 의미합니다."
       ]
@@ -2635,7 +2635,7 @@
       "syntax": "hanging-punctuation: none;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "문장 부호가 텍스트 줄의 시작 또는 끝에 매달려야 하는지 여부를 지정합니다.",
         "매달린 구두점은 줄 상자 외부에 위치할 수 있습니다."
@@ -2659,7 +2659,7 @@
       "syntax": "height: 120px;",
       "descApple": "all elements but non-replaced inline elements, table columns, and column groups",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소의 높이를 지정합니다.",
         "box-sizing로 설정 하면 테두리 영역border-box 의 높이가 결정 됩니다."
@@ -2674,7 +2674,7 @@
       "syntax": "hyphenate-character: auto;, hyphenate-character: <string>;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "하이픈 나누기 전에 줄 끝에서 사용되는 문자(또는 문자열)를 설정합니다.",
         "지정된 하이픈 문자 값에 따라 자동 하이픈과 소프트 하이픈이 모두 표시됩니다."
@@ -2689,7 +2689,7 @@
       "syntax": "hyphens: manual;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "텍스트가 여러 줄에 걸쳐 줄 바꿈될 때 단어에 하이픈을 추가하는 방법을 지정합니다.",
         "하이픈 넣기를 완전히 방지하거나 텍스트 내의 수동으로 지정한 지점에 하이픈을 넣거나 브라우저가 적절한 위치에 자동으로 하이픈을 삽입하도록 할 수 있습니다."
@@ -2704,7 +2704,7 @@
       "syntax": "image-orientation: from-image;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["이미지 방향에 대한 레이아웃 독립적 수정을 지정합니다."]
     },
     {
@@ -2716,7 +2716,7 @@
       "syntax": "image-rendering: auto;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "이미지 크기 조정 알고리즘을 설정합니다.",
         "속성은 요소 자체, 다른 속성에 설정된 모든 이미지 및 해당 하위 항목에 적용됩니다."
@@ -2731,7 +2731,7 @@
       "syntax": "image-resolution: 300dpi;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소에서 사용되는 모든 래스터 이미지의 고유 해상도를 지정합니다.",
         "대체된 요소 및 생성된 콘텐츠와 같은 콘텐츠 이미지와 이미지와 같은 장식 이미지에 영향을 줍니다."
@@ -2746,7 +2746,7 @@
       "syntax": "ime-mode: auto;",
       "descApple": "text fields",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "텍스트 필드에 대한 IME(입력기)의 상태를 제어합니다.",
         "이 속성은 더 이상 사용되지 않습니다."
@@ -2761,7 +2761,7 @@
       "syntax": "initial-letter: normal;",
       "descApple": "::first-letter pseudo-elements, inline-level first child of a block container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "올리기 및 움푹 들어간 이니셜 문자에 대한 스타일을 설정합니다."
       ]
@@ -2775,7 +2775,7 @@
       "syntax": "initial-letter-align: auto;",
       "descApple": "::first-letter pseudo-elements, inline-level first child of a block container",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["단락 내에서 첫 글자의 정렬을 지정합니다."]
     },
     {
@@ -2787,7 +2787,7 @@
       "syntax": "inline-size: 300px;",
       "descApple": "same as width and height",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "쓰기 모드에 따라 요소 블록의 가로 또는 세로 크기를 정의합니다.",
         "쓰기 모드가 세로 방향이면 값은 inline-size요소의 높이와 관련됩니다. 그렇지 않으면 요소의 너비와 관련됩니다."
@@ -2806,7 +2806,7 @@
       "syntax": "inset: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "상단, 오른쪽, 하단 및/또는 왼쪽 속성에 해당하는 약어입니다."
       ]
@@ -2824,7 +2824,7 @@
       "syntax": "inset-block: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 블록 시작 및 끝 오프셋을 정의하며, 요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 오프셋에 매핑됩니다."
       ]
@@ -2842,7 +2842,7 @@
       "syntax": "inset-block-end: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 인셋에 매핑되는 요소의 논리적 블록 엔드 오프셋을 정의합니다."
       ]
@@ -2860,7 +2860,7 @@
       "syntax": "inset-block-start: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 인세트에 매핑되는 요소의 논리적 블록 시작 오프셋을 정의합니다."
       ]
@@ -2878,7 +2878,7 @@
       "syntax": "inset-inline: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 오프셋에 매핑되는 인라인 방향의 요소의 논리적 시작 및 끝 오프셋을 정의합니다."
       ]
@@ -2896,7 +2896,7 @@
       "syntax": "inset-inline-end: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향성, 텍스트 방향에 따라 물리적 오프셋에 매핑되는 요소의 논리적 인라인 엔드를 정의합니다."
       ]
@@ -2914,7 +2914,7 @@
       "syntax": "inset-inline-start: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 오프셋에 매핑되는 요소의 논리적 인라인 시작을 정의합니다."
       ]
@@ -2928,7 +2928,7 @@
       "syntax": "isolation: auto;",
       "descApple": "All elements. In SVG, it applies to container elements, graphics elements, and graphics referencing elements.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소가 새로운 쌓임 맥락을 생성해야 하는지 지정합니다."]
     },
     {
@@ -2956,7 +2956,7 @@
       "syntax": "justify-content: normal;",
       "descApple": "flex containers",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "콘텐츠 항목 사이 및 주변에 공간을 분배하는 방법을 정의합니다"
       ]
@@ -2986,7 +2986,7 @@
       "syntax": "justify-items: normal;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "상자의 모든 항목에 대한 기본 정당화를 정의하여 적절한 축을 따라 각 상자를 정당화하는 기본 방법을 제공합니다."
       ]
@@ -3016,7 +3016,7 @@
       "syntax": "justify-self: auto;",
       "descApple": "block-level boxes, absolutely-positioned boxes, and grid items",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "적절한 축을 따라 정렬 컨테이너 내에서 상자가 정당화되는 방식을 설정합니다."
       ]
@@ -3030,7 +3030,7 @@
       "syntax": "left: auto;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소의 왼쪽 속성을 설정합니다.",
         "위치가 지정되지 않은 요소에는 영향을 주지 않습니다."
@@ -3045,7 +3045,7 @@
       "syntax": "letter-spacing: normal;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "글자 사이의 가로 간격을 설정합니다.",
         "양수 값 은 문자를 더 멀리 퍼지게 하고 음수 값은 문자를 더 가깝게 만듭니다."
@@ -3060,7 +3060,7 @@
       "syntax": "line-break: auto;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "한중일(CJK) 3개국어의 텍스트 줄을 어디서 바꿀지 지정합니다."
       ]
@@ -3074,7 +3074,7 @@
       "syntax": "line-height: normal;",
       "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "문장과 문장 사이의 간격을 설정합니다.",
         "블록 요소에서 요소 내 라인 상자의 최소 높이를 지정하며 줄바꿈 되지 않은 인라인 요소에서 라인 상자 높이를 계산하는 데 사용되는 높이를 지정합니다."
@@ -3089,7 +3089,7 @@
       "syntax": "line-height-step: 18pt;",
       "descApple": "block containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "라인 박스 높이에 대한 단계 단위를 설정합니다.",
         "속성이 설정되면 라인 상자 높이는 단위의 가장 가까운 배수로 반올림됩니다."
@@ -3109,7 +3109,7 @@
       "syntax": "list-style: none;",
       "descApple": "list items",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": ["목록 스타일을 설정합니다."]
     },
     {
@@ -3121,7 +3121,7 @@
       "syntax": "list-style-image: none;",
       "descApple": "list items",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["목록 마커의 이미지를 설정합니다."]
     },
     {
@@ -3133,7 +3133,7 @@
       "syntax": "list-style-position: inside;",
       "descApple": "list items",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["목록 항목에 대한 상대 위치를 설정합니다."]
     },
     {
@@ -3154,7 +3154,7 @@
       "syntax": "list-style-type: disc;",
       "descApple": "list items",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["목록 마커의 유형을 설정합니다."]
     },
     {
@@ -3166,7 +3166,7 @@
       "syntax": "margin: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소의 바깥쪽 여백을 설정합니다."]
     },
     {
@@ -3178,7 +3178,7 @@
       "syntax": "margin-block: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 블록 시작과 끝 여백을 정의하며, 요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3192,7 +3192,7 @@
       "syntax": "margin-block-end: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 블록 끝 여백을 정의하며, 요소의 쓰기 모드, 방향성, 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3206,7 +3206,7 @@
       "syntax": "margin-block-start: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 블록 시작 여백을 정의하며, 요소의 쓰기 모드, 방향성, 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3220,7 +3220,7 @@
       "syntax": "margin-bottom: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소의 아래 바깥쪽 여백을 설정합니다."]
     },
     {
@@ -3232,7 +3232,7 @@
       "syntax": "margin-inline: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 인라인 시작과 끝 여백을 모두 정의하는 속기 속성으로, 요소의 쓰기 모드, 방향성, 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3246,7 +3246,7 @@
       "syntax": "margin-inline-end: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 인라인 엔드 여백을 정의하며, 요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3260,7 +3260,7 @@
       "syntax": "margin-inline-start: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 인라인 시작 여백을 정의하며, 요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 여백에 매핑됩니다."
       ]
@@ -3274,7 +3274,7 @@
       "syntax": "margin-left: 10px; ",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소 왼쪽의 여백 영역을 설정합니다.",
         "양수 값은 이웃에서 더 멀리 배치하고 음수 값은 더 가깝게 배치합니다."
@@ -3289,7 +3289,7 @@
       "syntax": "margin-right: 10px;",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소의 오른쪽 여백 영역을 설정합니다.",
         "양수 값은 이웃에서 더 멀리 배치하고 음수 값은 더 가깝게 배치합니다."
@@ -3304,7 +3304,7 @@
       "syntax": "margin-top: 10px; ",
       "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "요소 상단의 여백 영역을 설정합니다.",
         "양수 값은 이웃에서 더 멀리 배치하고 음수 값은 더 가깝게 배치합니다."
@@ -3319,7 +3319,7 @@
       "syntax": "margin-trim: none;",
       "descApple": "Block containers and multi-column containers. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "margin-trim 속성을 통해 컨테이너는 컨테이너의 가장자리에 인접한 자식의 여백을 자를 수 있습니다."
       ]
@@ -3341,7 +3341,7 @@
       "syntax": "mask: none;",
       "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "아이템이 부분적으로만 보여지게 하거나 혹은 완전히 가려서 보여지지 않게 할 수 있는 기능입니다."
       ]
@@ -3362,7 +3362,7 @@
       "syntax": "mask-border: url('border-mask.png') 25;",
       "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "mask-border 속성을 사용하면 요소의 경계 가장자리를 따라 마스크를 생성할 수 있습니다."
       ]
@@ -3376,7 +3376,7 @@
       "syntax": "mask-border-mode: alpha;",
       "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["마스크 경계에 사용되는 혼합 모드를 지정합니다."]
     },
     {
@@ -3388,7 +3388,7 @@
       "syntax": "mask-border-outset: 1rem;",
       "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics element.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 마스크 테두리가 경계 상자로부터 설정되는 거리를 지정합니다."
       ]
@@ -3402,7 +3402,7 @@
       "syntax": "mask-border-repeat: stretch",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "하나 의 값이 지정되면 네 면 모두에 동일한 동작이 적용 됩니다.",
         "두 개의 값이 지정되면 첫 번째 값은 top 과 bottom 에 적용되고 두 번째 값 은 left 와 right 에 적용 됩니다."
@@ -3417,7 +3417,7 @@
       "syntax": "mask-border-slice: 30%",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "한 위치가 지정 되면 각 측면에서 동일한 거리에 4개의 슬라이스가 모두 생성됩니다.",
         "두 위치가 지정되면 첫 번째 값은 위쪽과 아래쪽에서 측정된 슬라이스를 만들고 두 번째 값은 왼쪽과 오른쪽 에서 측정된 슬라이스를 만듭니다.",
@@ -3434,7 +3434,7 @@
       "syntax": "mask-border-source: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "소스 이미지를 영역으로 나눈 다음 최종 마스크 테두리에 동적으로 적용되는 데 사용됩니다."
       ]
@@ -3448,7 +3448,7 @@
       "syntax": "mask-border-width: auto",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "한 위치가 지정 되면 각 측면에서 동일한 거리에 4개의 슬라이스가 모두 생성됩니다.",
         "두 위치가 지정되면 첫 번째 값은 위쪽과 아래쪽에서 측정된 슬라이스를 만들고 두 번째 값은 왼쪽과 오른쪽 에서 측정된 슬라이스를 만듭니다.",
@@ -3478,7 +3478,7 @@
       "syntax": "mask-clip: auto",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소의 페인팅된 콘텐츠는 이 영역으로 제한되어야 합니다."]
     },
     {
@@ -3490,7 +3490,7 @@
       "syntax": "mask-composite: add",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "컴포지션의 경우 현재 마스크 레이어를 소스 라고 하고 그 아래의 모든 레이어를 대상 이라고 합니다."
       ]
@@ -3504,7 +3504,7 @@
       "syntax": "mask-image: none",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "마스크 이미지의 알파 채널이 요소의 알파 채널과 곱해진다는 것을 의미합니다. 이것은 속성으로 제어할 수 있습니다."
       ]
@@ -3518,7 +3518,7 @@
       "syntax": "mask-mode: alpha",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "mask-image속성이 type 인 경우 <mask-source>마스크 레이어 이미지의 휘도 값을 마스크 값으로 사용해야 합니다."
       ]
@@ -3543,7 +3543,7 @@
       "syntax": "mask-origin: content-box",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "단일 상자로 렌더링된 요소의 경우 이 속성은 마스크 위치 지정 영역을 지정합니다"
       ]
@@ -3557,7 +3557,7 @@
       "syntax": "mask-position: top",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["쉼표로 구분된 하나 이상의 <position>값입니다."]
     },
     {
@@ -3569,7 +3569,7 @@
       "syntax": "mask-repeat: repeat-x",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "기본적으로 반복되는 이미지는 요소의 크기에 맞게 잘리지만 크기에 맞게 크기를 조정 round하거나(를 사용하여) 끝에서 끝까지 고르게 분포될 수 있습니다(space)."
       ]
@@ -3583,7 +3583,7 @@
       "syntax": "mask-size: cover",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         " 이미지의 크기는 고유 비율을 유지하기 위해 완전히 또는 부분적으로 제한될 수 있습니다."
       ]
@@ -3597,7 +3597,7 @@
       "syntax": "mask-type: alpha",
       "descApple": "<mask> elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "mask-mode속성에 의해 재정의될 수 있으며 동일한 효과를 갖지만 마스크가 사용되는 요소에 적용됩니다. 알파 마스크는 일반적으로 렌더링 속도가 더 빠릅니다."
       ]
@@ -3618,7 +3618,7 @@
       "syntax": "max-block-size: 300px",
       "descApple": "width, height",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "텍스트 내용의 크기에 따라 길이를 설정해야 하는 경우 쓰기 방향을 염두에 두고 설정할 수 있어야 합니다."
       ]
@@ -3639,7 +3639,7 @@
       "syntax": "max-height: none",
       "descApple": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "텍스트 크기를 늘리기 위해 페이지를 확대할 때 로 설정된 요소 max-height가 잘리거나 다른 콘텐츠를 가리지 않도록 하십시오."
       ]
@@ -3660,7 +3660,7 @@
       "syntax": "max-inline-size: 300px",
       "descApple": "width, height",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "쓰기 모드가 세로 방향이면 의 값은 max-inline-size요소의 최대 높이와 ​​관련됩니다. 그렇지 않으면 요소의 최대 너비와 관련됩니다."
       ]
@@ -3681,7 +3681,7 @@
       "syntax": "max-width: 300px",
       "descApple": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         " 속성의 사용 값 이 에서 지정한 값보다 커지는 것을 방지합니다."
       ]
@@ -3695,7 +3695,7 @@
       "syntax": "min-block-size: 300px",
       "descApple": "width, height",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "쓰기 모드가 세로 방향인 경우 값은 min-block-size요소의 최소 너비와 관련됩니다. 그렇지 않으면 요소의 최소 높이와 관련됩니다."
       ]
@@ -3716,7 +3716,7 @@
       "syntax": "min-height: 300px",
       "descApple": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "속성의 사용 값 이 에 지정된 값보다 작아 지는 것을 방지합니다"
       ]
@@ -3730,7 +3730,7 @@
       "syntax": "min-inline-size: 300px",
       "descApple": "width, height",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "쓰기 모드가 세로 방향인 경우 값은 min-inline-size요소의 최소 높이와 관련됩니다. 그렇지 않으면 요소의 최소 너비와 관련됩니다."
       ]
@@ -3751,7 +3751,7 @@
       "syntax": "min-width: 300px",
       "descApple": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "속성의 사용 값 이 에 지정된 값보다 작아 지는 것을 방지합니다."
       ]
@@ -3765,7 +3765,7 @@
       "syntax": "mix-blend-mode: 300px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["적용해야 하는 혼합 모드입니다."]
     },
     {
@@ -3777,7 +3777,7 @@
       "syntax": "mix-blend-mode: 300px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["적용해야 하는 혼합 모드입니다."]
     },
     {
@@ -3789,7 +3789,7 @@
       "syntax": "object-fit: contain",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "속성 을 사용하여 요소 상자 내에서 대체된 요소의 콘텐츠 개체의 정렬을 변경할 수 있습니다."
       ]
@@ -3803,7 +3803,7 @@
       "syntax": "object-position: top",
       "descApple": "replaced elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "속성을 사용하여 대체된 요소의 개체의 고유 크기(즉, 기본 크기)가 요소의 상자에 맞게 조정되는 방법을 조정할 수 있습니다."
       ]
@@ -3823,7 +3823,7 @@
       "syntax": "offset: auto",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "정의된 경로를 따라 요소에 애니메이션을 적용하는 데 필요한 모든 속성을 설정합니다."
       ]
@@ -3837,7 +3837,7 @@
       "syntax": "offset-anchor: auto",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "<position>3값 위치 구문은 in을 제외하고 의 어떤 용도로도 작동하지 않습니다."
       ]
@@ -3851,7 +3851,7 @@
       "syntax": "offset-distance: auto",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "100%는 경로의 전체 길이를 나타냅니다( offset-path가 기본 모양 또는 으로 정의된 경우 path())."
       ]
@@ -3865,7 +3865,7 @@
       "syntax": "offset-path: none",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "애니메이션 요소가 따를 수 있는 경로를 정의합니다. 오프셋 경로는 하나 이상의 하위 경로가 있는 지정된 경로이거나 스타일이 지정되지 않은 기본 모양의 지오메트리입니다."
       ]
@@ -3879,7 +3879,7 @@
       "syntax": "offset-position: auto",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소 상자의 가장자리를 기준으로 항목을 배치하기 위해 x/y 좌표를 정의합니다. 1~4개의 값을 사용하여 정의할 수 있습니다."
       ]
@@ -3893,7 +3893,7 @@
       "syntax": "offset-rotate: auto",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "offset-path요소는 양의 x축을 기준으로, 방향의 각도만큼 회전합니다. 이것이 기본값입니다."
       ]
@@ -3907,7 +3907,7 @@
       "syntax": "opacity: 0",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "자식 요소에 상속되지 않더라도 내용을 포함하여 요소 전체에 적용됩니다. 따라서 요소와 해당 하위 요소는 서로 상대적인 불투명도가 다른 경우에도 요소의 배경에 대해 동일한 불투명도를 갖습니다."
       ]
@@ -3921,7 +3921,7 @@
       "syntax": "order: 0",
       "descApple": "Flex items, grid items, absolutely-positioned, flex, grid, container, children",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 시각적 순서order 에만 영향을 미치며 논리적 또는 탭 순서에는 영향을 미치지 않습니다. "
       ]
@@ -3935,7 +3935,7 @@
       "syntax": "orphans: 3",
       "descApple": "block container elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "조각화 중단 전에 조각의 맨 아래에 단독으로 머물 수 있는 최소 줄 수입니다. 값은 양수여야 합니다."
       ]
@@ -3949,7 +3949,7 @@
       "syntax": "outline: 3",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "outline 아래 나열된 값 중 하나, 둘 또는 세 개를 사용하여 지정할 수 있습니다. 값의 순서는 중요하지 않습니다."
       ]
@@ -3963,7 +3963,7 @@
       "syntax": "outline-color: 3",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "outline윤곽의 모양을 정의할 때 속기 속성을 사용하는 것이 더 편리한 경우가 많습니다."
       ]
@@ -3977,7 +3977,7 @@
       "syntax": "outline-offset: 3px",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "윤곽선은 테두리 가장자리 외부의 요소 주위에 그려지는 선입니다. 요소와 윤곽선 사이의 공간은 투명합니다. 즉, 부모 요소의 배경과 동일합니다."
       ]
@@ -4002,7 +4002,7 @@
       "syntax": "outline-style: auto",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "outline 윤곽의 모양을 정의할 때 속기 속성을 사용하는 것이 더 편리한 경우가 많습니다."
       ]
@@ -4016,7 +4016,7 @@
       "syntax": "outline-width: thin",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "outline 윤곽의 모양을 정의할 때 속기 속성을 사용하는 것이 더 편리한 경우가 많습니다."
       ]
@@ -4030,7 +4030,7 @@
       "syntax": "overflow: visible",
       "descApple": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "overflow 값 목록에서 선택한 하나 또는 두 개의 키워드로 지정됩니다."
       ]
@@ -4044,7 +4044,7 @@
       "syntax": "overflow-anchor: visible",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스크롤 고정 동작은 지원하는 모든 브라우저에서 기본적으로 활성화됩니다. 따라서 이 속성의 값을 변경하는 것은 일반적으로 문서 또는 문서의 일부에서 스크롤 고정 문제가 발생하고 동작을 해제해야 하는 경우에만 필요합니다."
       ]
@@ -4058,7 +4058,7 @@
       "syntax": "overflow-block: visible",
       "descApple": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "콘텐츠가 상자의 블록 시작 및 블록 끝 가장자리를 오버플로할 때 표시되는 내용을 설정합니다."
       ]
@@ -4072,7 +4072,7 @@
       "syntax": "overflow-clip-margin: visible",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "overflow-clip-margin 속성은 길이로 지정되며 음수 값은 허용되지 않습니다."
       ]
@@ -4086,7 +4086,7 @@
       "syntax": "overflow-inline: visible",
       "descApple": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "콘텐츠가 상자의 인라인 시작 및 끝 가장자리를 오버플로할 때 표시되는 내용을 설정합니다."
       ]
@@ -4100,7 +4100,7 @@
       "syntax": "overflow-wrap: normal",
       "descApple": "non-replaced inline elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "어떤 문자가 내용 칸 밖으로 넘치지 않도록, 브라우저가 단어 마디 안에서 줄을 바꿔야 할 것인지 아닌지를 설정합니다."
       ]
@@ -4114,7 +4114,7 @@
       "syntax": "overflow-x: visible",
       "descApple": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "X축을 기준으로 지정한 영역에 요소들이 벗어났을 때 속성을 설정합니다."
       ]
@@ -4128,7 +4128,7 @@
       "syntax": "overflow-y: visible",
       "descApple": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "Y축을 기준으로 지정한 영역에 요소들이 벗어났을 때 속성을 설정합니다."
       ]
@@ -4142,7 +4142,7 @@
       "syntax": "overscroll-behavior: auto",
       "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "두 개의 키워드는 각각 및 축의 overscroll-behavior값을 지정합니다. 하나의 값만 지정하면 x와 y가 모두 동일한 값을 갖는 것으로 간주됩니다."
       ]
@@ -4156,7 +4156,7 @@
       "syntax": "overscroll-behavior-block: auto",
       "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스크롤 영역의 블록 방향 경계에 도달할 때 브라우저의 동작을 설정합니다."
       ]
@@ -4170,7 +4170,7 @@
       "syntax": "overscroll-behavior-x: auto",
       "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스크롤 영역의 수평 경계에 도달할 때 브라우저의 동작을 설정합니다."
       ]
@@ -4184,7 +4184,7 @@
       "syntax": "overscroll-behavior-y: auto",
       "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "스크롤 영역의 수직 경계에 도달할 때 브라우저의 동작을 설정합니다."
       ]
@@ -4198,7 +4198,7 @@
       "syntax": "padding: 15px",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "하나 의 값이 지정되면 네 면 모두에 동일한 패딩이 적용 됩니다.",
         "두 개의 값이 지정되면 첫 번째 패딩은 top 과 bottom 에 적용되고 두 번째 패딩 은 left 와 right 에 적용 됩니다.",
@@ -4215,7 +4215,7 @@
       "syntax": "padding-block: 15px",
       "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         " padding-block은 하나 또는 두 개의 값으로 지정할 수 있습니다. "
       ]
@@ -4229,7 +4229,7 @@
       "syntax": "padding-block-end: 15px",
       "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 다른 패딩을 정의하는 padding-block-start, padding-inline-start, padding-inline-end 및 와 관련됩니다."
       ]
@@ -4243,7 +4243,7 @@
       "syntax": "padding-block-start: 15px",
       "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 다른 패딩을 정의하는 padding-block-start, padding-inline-start, padding-inline-end 및 와 관련됩니다."
       ]
@@ -4257,7 +4257,7 @@
       "syntax": "padding-inline-end: 10px",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 인라인 엔드 패딩을 정의합니다",
         "이 패딩은 요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리 패딩에 매핑됩니다"
@@ -4272,7 +4272,7 @@
       "syntax": "padding-inline-start: 10px",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 논리적 인라인 시작 패딩을 정의합니다",
         "이 패딩은 요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 패딩에 매핑됩니다"
@@ -4287,7 +4287,7 @@
       "syntax": "padding-left: 0.5em",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소의 왼쪽에 패딩 영역의 폭을 설정합니다"]
     },
     {
@@ -4299,7 +4299,7 @@
       "syntax": "padding-right: 0.5em",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소의 오른쪽에 있는 패딩 영역의 폭을 설정합니다"]
     },
     {
@@ -4311,7 +4311,7 @@
       "syntax": "padding-top: 0.5em;",
       "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": ["요소 상단에 있는 패딩 영역의 높이를 설정합니다."]
     },
     {
@@ -4323,7 +4323,7 @@
       "syntax": "page-break-after: auto;",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "현재 요소 뒤에 페이지 구분을 조정합니다",
         "이 속성은 break-after속성으로 대체되었습니다"
@@ -4338,7 +4338,7 @@
       "syntax": "page-break-before: auto;",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "현재 요소 앞에 페이지 구분을 조정합니다",
         "이 속성은 break-before 대체되었습니다"
@@ -4353,7 +4353,7 @@
       "syntax": "page-break-inside: auto;",
       "descApple": "block-level elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "현재 요소 내의 페이지 나누기를 조정합니다",
         "이 속성은 break-inside 대체되었습니다"
@@ -4368,7 +4368,7 @@
       "syntax": "perspective: none;",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "3D 위치 요소에 원근감을 주기 위해 z=0 평면과 사용자 사이의 거리를 결정합니다"
       ]
@@ -4382,7 +4382,7 @@
       "syntax": "perspective-origin: x-position;",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "뷰어가 보고 있는 위치를 결정합니다",
         "perspective 속성의 소실점으로 사용됩니다"
@@ -4406,7 +4406,7 @@
       "syntax": "place-content: center start;",
       "descApple": "multi-line flex containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드나 Flexbox 등의 관련 레이아웃 시스템에서 블록 및 인라인 방향을 따라 콘텐츠를 한 번에 정렬할 수 있습니다"
       ]
@@ -4420,7 +4420,7 @@
       "syntax": "place-items: center;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드나 Flexbox 등의 관련 레이아웃 시스템에서 블록 및 인라인 방향을 따라 항목을 한 번에 정렬할 수 있습니다",
         "두 번째 값이 설정되지 않은 경우 첫 번째 값도 이 값에 사용됩니다"
@@ -4444,7 +4444,7 @@
       "syntax": "place-self: auto center;",
       "descApple": "block-level boxes, absolutely-positioned boxes, and grid items",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "그리드나 Flexbox 등의 관련 레이아웃 시스템에서 블록 방향과 인라인 방향 모두에서 개별 항목을 한 번에 정렬할 수 있습니다",
         "두 번째 값이 없는 경우 첫 번째 값도 이 값에 사용됩니다"
@@ -4459,7 +4459,7 @@
       "syntax": "pointer-events: auto;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★☆☆",
+      "descStar": "🌝🌝🌝🌚🌚",
       "definition": [
         "특정 그래픽 요소가 포인터 이벤트의 대상이 될 수 있는 상황을 설정합니다."
       ]
@@ -4473,7 +4473,7 @@
       "syntax": "position: static;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         "문서에서 요소의 위치를 설정합니다",
         "속성에 따라 배치된 요소의 최종 위치가 결정됩니다"
@@ -4488,7 +4488,7 @@
       "syntax": "print-color-adjust: economy;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "출력 디바이스에서 요소의 외관을 최적화하기 위해 수행할 수 있는 작업을 설정합니다",
         "기본적으로 브라우저는 출력 디바이스의 유형과 기능을 고려하여 필요하다고 판단되는 요소의 외관을 조정할 수 있습니다"
@@ -4503,7 +4503,7 @@
       "syntax": "quotes: none;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "브라우저가 따옴표를 렌더링하는 방법을 설정합니다",
         "CSS content속성의 open-quotes 또는 close-quotes 값을 사용합니다"
@@ -4518,7 +4518,7 @@
       "syntax": "resize: none;",
       "descApple": "elements with overflow, images or videos, and iframes",
       "descVer": "CSS3",
-      "descStar": "★★☆☆☆",
+      "descStar": "🌝🌝🌚🌚🌚",
       "definition": [
         "요소의 크기 조정 가능 여부 및 크기 조정 가능한 경우 방향을 설정합니다"
       ]
@@ -4532,7 +4532,7 @@
       "syntax": "right: 3px;",
       "descApple": "positioned elements",
       "descVer": "CSS3",
-      "descStar": "★★★★★",
+      "descStar": "🌝🌝🌝🌝🌝",
       "definition": [
         " 배치된 요소의 수평 위치 지정에 참여합니다",
         "포지션이 적용되지 않은 요소에는 영향을 주지 않습니다"
@@ -4552,7 +4552,7 @@
       "syntax": "rotate: none;",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "자체 속성과는 별도로 회전 변환을 개별적으로 지정할 수 있습니다",
         "transform의 속성 중 하나입니다."
@@ -4567,7 +4567,7 @@
       "syntax": "row-gap: 20px;",
       "descApple": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소의 행 사이의 간격(거터) 크기를 설정합니다"]
     },
     {
@@ -4579,7 +4579,7 @@
       "syntax": "ruby-align: start;",
       "descApple": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["베이스에 걸친 다양한 루비 요소의 분포를 정의합니다"]
     },
     {
@@ -4591,7 +4591,7 @@
       "syntax": "ruby-position: over;",
       "descApple": "ruby annotations containers",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "기본 요소에 상대적인 루비 요소의 위치를 정의합니다",
         "요소의 위(over), 아래 (under) 또는 문자 사이(inter-character)에 배치할 수 있습니다"
@@ -4606,7 +4606,7 @@
       "syntax": "scale: none;",
       "descApple": "transformable elements",
       "descVer": "CSS3",
-      "descStar": "★★★★☆",
+      "descStar": "🌝🌝🌝🌝🌚",
       "definition": [
         "속성과 독립적으로 척도(크기) 변환을 개별적으로 지정할 수 있습니다",
         "transform의 속성 중 하나입니다"
@@ -4621,7 +4621,7 @@
       "syntax": "scroll-behavior: auto;",
       "descApple": "scrolling boxes",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "네비게이션 또는 CSSOM 스크롤 API에 의해 스크롤이 트리거될 때의 스크롤 상자의 동작을 설정합니다",
         "사용자가 수행한 스크롤과 다른 스크롤은 이 속성의 영향을 받지 않습니다"
@@ -4636,7 +4636,7 @@
       "syntax": "scroll-margin: 10px;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": [
         "요소의 모든 스크롤 여백을 한 번에 설정하며 요소의 여백에 대한 속성과 동일한 값을 할당합니다."
       ]
@@ -4650,7 +4650,7 @@
       "syntax": "scroll-margin-block: 10px;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["요소의 스크롤 여백을 설정합니다."]
     },
     {
@@ -4662,7 +4662,7 @@
       "syntax": "scroll-margin-block-end: 10px;",
       "descApple": "all elements",
       "descVer": "CSS3",
-      "descStar": "★☆☆☆☆",
+      "descStar": "🌝🌚🌚🌚🌚",
       "definition": ["끝에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
     },
     {
@@ -4674,7 +4674,7 @@
         "syntax": "scroll-margin-block-start: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["시작 부분에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
     },
     {
@@ -4686,7 +4686,7 @@
         "syntax": "scroll-margin-bottom: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤 스냅 영역의 아래쪽 여백을 정의합니다"]
     },
     {
@@ -4698,7 +4698,7 @@
         "syntax": "scroll-margin-inline: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["인라인 치수에 있는 요소의 스크롤 여백을 설정합니다."]
     },
     {
@@ -4710,7 +4710,7 @@
         "syntax": "scroll-margin-inline-end: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "인라인 치수의 끝에 있는 스크롤 스냅 영역의 여백을 정의합니다"
         ]
@@ -4724,7 +4724,7 @@
         "syntax": "scroll-margin-inline-start: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "인라인 치수 시작 부분의 스크롤 스냅 영역의 여백을 정의합니다"
         ]
@@ -4738,7 +4738,7 @@
         "syntax": "scroll-margin-left: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤 스냅 영역의 왼쪽 여백을 정의합니다"]
     },
     {
@@ -4750,7 +4750,7 @@
         "syntax": "scroll-margin-right: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤 스냅 영역의 오른쪽 여백을 정의합니다"]
     },
     {
@@ -4762,7 +4762,7 @@
         "syntax": "scroll-margin-top: 10px;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤 스냅 영역의 상단 여백을 정의합니다"]
     },
     {
@@ -4774,7 +4774,7 @@
         "syntax": "scroll-padding: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역(사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역)에 대한 오프셋을 정의합니다"
         ]
@@ -4788,7 +4788,7 @@
         "syntax": "scroll-padding-block: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "블럭 요소의 스크롤 패딩을 설정합니다",
         "스크롤 패딩 속성은 스크롤 포트의 최적 보기 영역(사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역)에 대한 오프셋을 정의합니다"
@@ -4803,7 +4803,7 @@
         "syntax": "scroll-padding-block-end: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역의 블록 치수에 있는 끝 모서리에 대한 오프셋을 정의합니다",
         "사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역입니다"
@@ -4818,7 +4818,7 @@
         "syntax": "scroll-padding-block-start: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역의 블록 치수에 있는 시작 모서리에 대한 오프셋을 정의합니다",
         "용자가 보기에 사물을 배치하기 위한 대상 영역으로 사용되는 영역입니다"
@@ -4833,7 +4833,7 @@
         "syntax": "scroll-padding-bottom: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역 맨 아래에 대한 오프셋을 정의합니다",
         "사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역입니다"
@@ -4848,7 +4848,7 @@
         "syntax": "scroll-padding-inline: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["인라인 치수에 있는 요소의 스크롤 패딩을 설정합니다"]
     },
     {
@@ -4860,7 +4860,7 @@
         "syntax": "scroll-padding-inline-end: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역의 인라인 치수(사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역)에서 끝 모서리에 대한 오프셋을 정의합니다"
         ]
@@ -4874,7 +4874,7 @@
         "syntax": "scroll-padding-inline-start: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역의 인라인 치수에 있는 시작 에지에 대한 오프셋을 정의합니다",
         "이 영역은 사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용됩니다"
@@ -4889,7 +4889,7 @@
         "syntax": "scroll-padding-left: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역 왼쪽에 대한 오프셋을 정의합니다",
         "이 영역은 사용자의 보기에 사물을 배치하기 위한 대상 영역으로 사용됩니다"
@@ -4904,7 +4904,7 @@
         "syntax": "scroll-padding-right: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역 오른쪽에 대한 오프셋을 정의합니다",
         "용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용되는 영역입니다"
@@ -4919,7 +4919,7 @@
         "syntax": "scroll-padding-top: auto;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 포트의 최적 보기 영역 상단에 대한 간격띄우기를 정의합니다",
         "이 영역은 사용자의 시야에 사물을 배치하기 위한 대상 영역으로 사용됩니다"
@@ -4934,7 +4934,7 @@
         "syntax": "scroll-snap-align: none;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "박스의 스냅 위치를 스냅 컨테이너의 접점(얼라인먼트 컨테이너) 내에서 스냅 영역(얼라인먼트 제목)의 정렬로 지정합니다",
         "두 값은 각각 블록 축과 인라인 축에서 스냅 정렬을 지정합니다",
@@ -4950,7 +4950,7 @@
         "syntax": "scroll-snap-coordinate: none;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "각 축에 대해 가장 가까운 상위 스크롤 컨테이너와 정렬되는 요소 내의 x 및 y 좌표 위치를 정의합니다",
         "이 기능은 더 이상 권장되지 않습니다"
@@ -4965,7 +4965,7 @@
         "syntax": "scroll-snap-destination: 400px 600px;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 컨테이너의 시각적 뷰포트 내에서 요소 스냅점이 정렬되는 x 및 y 좌표의 위치를 정의합니다.",
         "이 기능은 더 이상 권장되지 않습니다"
@@ -4980,7 +4980,7 @@
         "syntax": "scroll-snap-points-x: none;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스냅점이 적용되는 스크롤 컨테이너의 내용 내에서 스냅점의 수평 위치를 정의합니다",
         "이 기능은 더 이상 권장되지 않습니다"
@@ -4995,7 +4995,7 @@
         "syntax": "scroll-snap-points-y: none;",
         "descApple": "scroll containers",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스냅점이 적용되는 스크롤 컨테이너의 내용 내에서 스냅점의 수직 위치를 정의합니다",
         "이 기능은 더 이상 권장되지 않습니다"
@@ -5010,7 +5010,7 @@
         "syntax": "scroll-snap-stop: normal;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 컨테이너가 가능한 스냅 위치를 '통과'할 수 있는지 여부를 정의합니다."
         ]
@@ -5033,7 +5033,7 @@
         "syntax": "scroll-snap-type: none;",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스냅 포인트가 있는 경우 스크롤 컨테이너에 얼마나 엄격하게 적용되는지를 설정합니다.",
         "스냅 포인트를 적용하기 위해 사용되는 정확한 애니메이션 또는 물리 지정은 이 속성에서 다루지 않으며 대신 사용자 에이전트에 맡겨집니다"
@@ -5048,7 +5048,7 @@
         "syntax": "scrollbar-color: auto;",
         "descApple": "scrolling boxes",
         "descVer": "CSS3",
-        "descStar": "★☆☆☆☆",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤바의 트랙과 막대 색상을 설정합니다"]
     },
     {
@@ -5060,7 +5060,7 @@
         "syntax": "scrollbar-color: auto",
         "descApple": "scrolling boxes",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤바의 트랙과 스크롤 색상을 설정합니다.",
         "스크롤바의 트랙은 배경을 의미하며, 일반적으로 스크롤 위치와 관계없이 고정됩니다."
@@ -5075,7 +5075,7 @@
         "syntax": "scrollbar-gutter: auto",
         "descApple": "scrolling boxes",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "스크롤 막대의 존재 여부에 따른 레이아웃의 변화를 없애줍니다.",
         "요소의 스크롤 막대 여백 은 브라우저가 스크롤 막대를 표시할 수 있는 내부 테두리 가장자리와 외부 패딩 가장자리 사이의 공간입니다.",
@@ -5091,7 +5091,7 @@
         "syntax": "scrollbar-width: auto",
         "descApple": "scrolling boxes",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": ["스크롤 막대의 최대 너비를 설정합니다."]
     },
     {
@@ -5103,7 +5103,7 @@
         "syntax": "shape-image-threshold: 0.7",
         "descApple": "floats",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "이미지의 모양을 추출하기 위해 알파 채널 임계값을 설정합니다.",
         "이 값보다 불투명한 픽셀은 모양의 영역을 계산하는 데 사용됩니다."
@@ -5118,7 +5118,7 @@
         "syntax": "shape-margin: 10px",
         "descApple": "floats",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양의 여백을 설정합니다.",
         "모양의 여백을 <length>값 또는 <percentage>요소를 포함하는 블록의 너비로 설정합니다."
@@ -5146,7 +5146,7 @@
         "syntax": "shape-outside: none",
         "descApple": "floats",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "인접한 인라인 콘텐츠가 상자를 둘러싸는 모양의 여백을 설정합니다.",
         "복잡한 개체 주위에 텍스트를 줄 바꿈할 수 있습니다."
@@ -5161,7 +5161,7 @@
         "syntax": "tab-size: 10px",
         "descApple": "block containers",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "글씨의 간격을 정의합니다.",
         "간격을 정의할 땐 음수가 아니어야 합니다."
@@ -5176,7 +5176,7 @@
         "syntax": "table-layout: auto",
         "descApple": "table",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "표의 레이아웃 크기를 정의합니다.",
         "셀, 행, 열과 같은 table-layout을 배치하는 데 사용됩니다."
@@ -5201,7 +5201,7 @@
         "syntax": "text-align: start",
         "descApple": "block containers",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "텍스트 정렬 방식을 설정합니다.",
         "블록 요소 또는 테이블 셀 상자 내부의 인라인 수준 콘텐츠의 수평 정렬을 설정합니다."
@@ -5216,7 +5216,7 @@
         "syntax": "text-align-last: auto",
         "descApple": "block containers",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "문장의 마지막 텍스트 정렬 방식을 설정합니다.",
         "블록요소의 수평 정렬을 설정합니다."
@@ -5231,7 +5231,7 @@
         "syntax": "text-combine-upright: none",
         "descApple": "non-replaced inline elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "문자 조합을 단일 문자 공간으로 설정합니다.",
         "결합된 텍스트가 1em보다 넓은 경우 사용자 에이전트는 1em 이내에 내용을 맞춰야 합니다.",
@@ -5247,7 +5247,7 @@
         "syntax": "text-decoration: none",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "텍스트에 장식용 선을 추가합니다.",
         "text-decoration-line / text-decoration-color / text-decoration-style / text-decoration-thickness의 약어 입니다."
@@ -5262,7 +5262,7 @@
         "syntax": "text-decoration-color: red",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "텍스트 라인의 색상을 설정합니다.",
         "색상은 자산 가치 범위 내에서 밑줄, 윗줄, 취소선 및 철자를 표시하는 데 사용되는 물결선과 같은 장식에 적용됩니다."
@@ -5277,7 +5277,7 @@
         "syntax": "text-decoration-line: none",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "밑줄이나 윗줄과 같이 요소의 텍스트에 사용되는 라인의 스타일을 설정합니다.",
         "text-decoration-line속성은 none또는 아래 목록에서 하나 이상의 공백으로 구분된 값으로 지정됩니다."
@@ -5292,7 +5292,7 @@
         "syntax": "text-decoration-skip: objects",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트의 장식(밑줄)이 일정 부분을 건너뛰어 중간에 끊어지도록 설정합니다.",
         "요소가 그린 모든 텍스트 장식 라인과 그 부모가 그린 모든 텍스트 장식 라인을 제어합니다."
@@ -5307,7 +5307,7 @@
         "syntax": "text-decoration-ink: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "윗줄과 밑줄이 글리프 어센더 및 디센더를 전달할 때 그려지는 방법을 지정합니다.",
         "text-decoration-skip-ink속성은 text-decoration(약어)에 일부가 아닙니다."
@@ -5322,7 +5322,7 @@
         "syntax": "text-decoration-style: solid",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "글자 스타일을 정의합니다.",
         "한 번에 여러 줄 장식 속성을 설정할 때 text-decoration속기 속성을 대신 사용하는 것이 더 편리할 수 있습니다."
@@ -5337,7 +5337,7 @@
         "syntax": "text-decoration-thickness: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "텍스트 장식(밑줄)의 굵기를 설정합니다.",
         "from-font는 글꼴 파일에 기본 두께에 대한 정보가 포함되어 있으면 해당 값을 적용됩니다."
@@ -5352,7 +5352,7 @@
         "syntax": "text-emphasis: none",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트에 강조 표시를 적용합니다.",
         "강조 시 공백 및 제어문자 제외합니다."
@@ -5367,7 +5367,7 @@
         "syntax": "text-emphasis-color: #555",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트 강조 표시의 색상을 설정합니다.",
         "text-emphasis의 속기 설정으로 사용할 수 있습니다."
@@ -5382,7 +5382,7 @@
         "syntax": "text-emphasis-position: over right",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트 강조 표시의 위치를 설정합니다.",
         "강조 표시를 위한 공간이 충분하지 않으면 줄 높이가 높아집니다."
@@ -5408,7 +5408,7 @@
         "syntax": "text-emphasis-style: none",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트 강조 표시의 모양을 설정합니다.",
         "약식 을 사용하여 설정 및 재설정할 수도 있습니다."
@@ -5423,7 +5423,7 @@
         "syntax": "text-indent: 5em hanging",
         "descApple": "block containers",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "문단의 들여쓰기 길이를 지정합니다.",
         "가로 간격은 포함하는 블록 수준 요소의 콘텐츠 상자의 왼쪽(또는 오른쪽에서 왼쪽 레이아웃의 경우 오른쪽) 가장자리를 기준으로 합니다."
@@ -5438,7 +5438,7 @@
         "syntax": "text-justify: auto",
         "descApple": "inline-level",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트의 간격을 설정합니다.",
         "auto설정 시 브라우저는 성능과 품질 간의 균형뿐만 아니라 텍스트 언어(예: 영어, CJK 언어 등)에 가장 적합한 것을 기반으로 현재 상황에 가장 적합한 유형을 선택합니다."
@@ -5459,7 +5459,7 @@
         "syntax": "text-orientation: mixed",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "줄에서 텍스트 문자의 방향(수평, 수직)을 설정합니다.",
         "세로 모드의 텍스트에만 영향을 줍니다.",
@@ -5475,7 +5475,7 @@
         "syntax": "text-overflow: clip",
         "descApple": "block elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "숨겨진 오버플로 콘텐츠가 사용자에게 신호되는 방식을 설정합니다.",
         "잘리거나 줄임표(' ')를 표시하거나 사용자 지정 문자열을 표시하여 넘치는 텍스트 처리 방법을 설정할 수 있습니다."
@@ -5495,7 +5495,7 @@
         "syntax": "text-rendering: auto",
         "descApple": "text elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트를 렌더링할 때 최적화할 대상에 대한 정보를 렌더링 엔진에 제공합니다.",
         "브라우저는 속도, 가독성 및 기하학적 정밀도 사이에서 균형을 유지합니다."
@@ -5510,7 +5510,7 @@
         "syntax": "text-shadow: 1px 1px 2px black",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✧",
+        "descStar": "🌝🌝🌝🌝🌚",
         "definition": [
         "텍스트에 그림자를 설정합니다.",
         "각 그림자는 색상, 흐림 반경 및 요소의 X 및 Y 오프셋 조합으로 설명됩니다."
@@ -5525,7 +5525,7 @@
         "syntax": "text-size-adjust: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "일부 스마트폰 및 태블릿에서 사용되는 텍스트 인플레이션 알고리즘을 제어합니다.",
         "많은 웹 사이트가 소형 장치를 염두에 두고 개발되지 않았기 때문에 모바일 브라우저는 웹 페이지를 렌더링하는 방식이 데스크톱 브라우저와 다릅니다.",
@@ -5548,7 +5548,7 @@
         "syntax": "text-transform: none",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "텍스트를 모두 대문자 또는 소문자로 표시하거나, 각 단어를 대문자로 표시합니다.",
         "가독성을 높이는 데 도움이 될 수 있습니다."
@@ -5563,7 +5563,7 @@
         "syntax": "text-underline-offset: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트와 밑줄 사이의 거리를 설정합니다.",
         "요소에는 여러 text-decoration줄 이 있을 수 있지만 text-underline-offset밑줄에만 영향을 미치고 또는 와 같은 다른 가능한 선 장식 옵션 에는 영향을 미치지 않습니다."
@@ -5578,7 +5578,7 @@
         "syntax": "text-underline-position: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트 밑줄의 방향(수평, 수직)을 ​​지정합니다.",
         "auto속성 시 자체 알고리즘을 사용하여 알파벳 기준선 또는 그 아래에 선을 배치합니다."
@@ -5593,7 +5593,7 @@
         "syntax": "top: 3px",
         "descApple": "positioned elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "요소의 위쪽 속성을 설정합니다.",
         "포지션이 지정되지 않은 요소에는 영향을 주지 않습니다."
@@ -5619,7 +5619,7 @@
         "syntax": "touch-action: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "터치스크린 사용자가 요소의 영역을 조작하는 방법(브라우저에 내장된 확대/축소 기능 등)을 설정합니다.",
         "기본적으로 패닝(스크롤링) 및 핀치 제스처는 브라우저에서만 처리됩니다."
@@ -5657,7 +5657,7 @@
         "syntax": "transform: none",
         "descApple": "transformable elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "요소에 회전, 크기 조절, 기울이기, 이동 효과 등의 움직임을 부여합니다.",
         "속성 은 transform키워드 값 none또는 하나 이상의 <transform-function>값으로 지정할 수 있습니다."
@@ -5678,7 +5678,7 @@
         "syntax": "transform-box: view-box",
         "descApple": "transformable elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "transform 및 transform-origin과 관련된 레이아웃 상자를 정의합니다.",
         "속성 은 transform키워드 값 none또는 하나 이상의 <transform-function>값으로 지정할 수 있습니다."
@@ -5700,7 +5700,7 @@
         "syntax": "transform-origin: 50% 50% 0",
         "descApple": "transformable elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "요소 변형의 원점을 설정합니다.",
         "변형 원점은 변형이 적용되는 지점입니다. 예를 들어, rotate()함수의 변환 원점은 회전 중심입니다."
@@ -5715,7 +5715,7 @@
         "syntax": "transform-style: flat",
         "descApple": "transformable elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "요소의 자식이 3D 공간에 배치되는지 또는 요소 평면에서 병합되는지 여부를 설정합니다.",
         "평면화하면 요소의 자식은 3D 공간에서 자체적으로 존재하지 않습니다.",
@@ -5737,7 +5737,7 @@
         "syntax": "transition: all 0s 0s ease",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "요소의 두 가지 상태 사이에 전환 효과를 줍니다.",
         "transition-property / transition-duration / transition-timing-function / transition-delay의 약식 속성입니다.",
@@ -5753,7 +5753,7 @@
         "syntax": "transition-delay: 0s",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "전환 애니메이션의 시간을 지연합니다.",
         "지연은 0, 양수 또는 음수일 수 있습니다.",
@@ -5769,7 +5769,7 @@
         "syntax": "transition-duration: 0s",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "전환 애니메이션이 완료되는데 걸리는 시간을 설정합니다.",
         "지정된 기간보다 더 적은 기간이 지정된 경우 사용자 에이전트는 기간 목록을 반복합니다. 지속 시간이 더 있으면 목록이 올바른 크기로 잘립니다."
@@ -5784,7 +5784,7 @@
         "syntax": "transition-property: all",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "전환 효과의 적용 여부를 설정합니다.",
         "속기 속성(예: background)을 지정하면 애니메이션할 수 있는 모든 하위 속성이 됩니다."
@@ -5810,7 +5810,7 @@
         "syntax": "transition-property: ease",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "전환 효과의 영향을 받는 CSS 속성에 대해 중간 값이 계산 되는 방식을 설정합니다.",
         "전환 속성에 대해 하나씩 있을 때까지 값 목록을 반복하여 사용되는 값을 계산해야 합니다."
@@ -5825,7 +5825,7 @@
         "syntax": "translate: 100px 200px",
         "descApple": "transformable elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✧",
+        "descStar": "🌝🌝🌝🌝🌚",
         "definition": [
         "변환 속성에 구애받지 않고 개별적인 변환 방법(translation transforms)을 지정할 수 있습니다.",
         "일반적인 사용자 인터페이스 사용에 더 잘 매핑되며 값 에 지정하기 위해 변환 함수의 정확한 순서를 기억할 필요가 없습니다."
@@ -5847,7 +5847,7 @@
         "syntax": "unicode-bidi: normal",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "문서의 양방향 텍스트가 표시되는 방식을 결정합니다.",
         "콘텐츠 블록에 왼쪽에서 오른쪽 및 오른쪽에서 왼쪽 텍스트가 모두 포함된 경우 사용자 에이전트는 복잡한 유니코드 알고리즘을 사용하여 텍스트를 표시하는 방법을 결정합니다."
@@ -5862,7 +5862,7 @@
         "syntax": "user-select: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "사용자가 텍스트를 선택할 수 있는지에 대해 지정합니다.",
         "텍스트 상자를 제외하고 브라우저의 사용자 인터페이스( chrome ) 의 일부로 로드된 콘텐츠에는 영향을 미치지 않습니다."
@@ -5888,7 +5888,7 @@
         "syntax": "vertical-align: baseline",
         "descApple": "inline-level table-cell",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✧ ✧",
+        "descStar": "🌝🌝🌝🌚🌚",
         "definition": [
         "inline 또는 table-cell box에서의 수직 정렬을 지정합니다.",
         "블록요소에서는 적용되지 않습니다."
@@ -5903,7 +5903,7 @@
         "syntax": "visibility: visible",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "문서의 레이아웃을 변경하지 않고 요소를 보이거나 숨깁니다.",
         "<table>속성은 에서 행이나 열을 숨길 수도 있습니다."
@@ -5925,7 +5925,7 @@
         "syntax": "white-space: normal",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "요소가 공백 문자를 처리하는 법(공백, 줄바꿈 속성)을 지정합니다.",
         "공백이 축소 되는지 여부와 방법과 소프트 랩 기회에서 줄이 줄 바꿈될 수 있는지 여부를 지정합니다."
@@ -5940,7 +5940,7 @@
         "syntax": "widows: 2",
         "descApple": "block elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "페이지, 영역 또는 열의 상단에 표시되어야 하는 블록 컨테이너의 최소 줄 수를 설정합니다.",
         "타이포그래피에서 widows는 페이지 상단에 단독으로 나타나는 단락의 마지막 줄입니다."
@@ -5962,7 +5962,7 @@
         "syntax": "width: 100%",
         "descApple": "block elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✦",
+        "descStar": "🌝🌝🌝🌝✦",
         "definition": [
         "요소의 가로 값을 정의합니다.",
         "기본적으로 콘텐츠 영역 의 너비를 설정 하지만 box-sizing로 설정하면 테두리 영역 border-box의 너비를 설정합니다."
@@ -5984,7 +5984,7 @@
         "syntax": "will-change: auto",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "요소에 예상되는 변화의 종류에 관한 힌트를 브라우저에 제공하도록 합니다.",
         "브라우저는 요소가 실제로 변경되기 전에 최적화를 설정할 수 있습니다."
@@ -5999,7 +5999,7 @@
         "syntax": "word-break: normal",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✧ ✧",
+        "descStar": "🌝🌝🌝🌚🌚",
         "definition": [
         "텍스트가 자신의 콘텐츠 박스 밖으로 오버플로 할 때 줄바꿈 속성을 설정합니다.",
         "normal 설정 시 기본 줄 바꿈 규칙을 사용합니다."
@@ -6014,7 +6014,7 @@
         "syntax": "word-spacing: normal",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✧ ✧ ✧",
+        "descStar": "🌝🌝🌚🌚🌚",
         "definition": [
         "단어와 단어 사이, 태그와 태그 사이의 거리를 설정합니다.",
         "normal 설정 시 현재 글꼴 및/또는 브라우저에서 정의한 일반적인 단어 간 간격으로 적용됩니다."
@@ -6029,7 +6029,7 @@
         "syntax": "writing-mode: horizontal-tb",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✧ ✧ ✧ ✧",
+        "descStar": "🌝🌚🌚🌚🌚",
         "definition": [
         "텍스트 줄의 가로 세로 배치 방법와 블록이 진행되는 방향을 설정합니다.",
         "가로 스크립트의 흐름 방향은 왼쪽에서 오른쪽으로 또는 오른쪽에서 왼쪽입니다."
@@ -6044,7 +6044,7 @@
         "syntax": "z-index: 1",
         "descApple": "all elements",
         "descVer": "CSS3",
-        "descStar": "✦ ✦ ✦ ✦ ✧",
+        "descStar": "🌝🌝🌝🌝🌚",
         "definition": [
         "요소들의 위치가 겹칠 경우, Z축(화면에 뜨는) 순서를 정의합니다.",
         "더 큰 z-인덱스가 있는 겹치는 요소는 더 작은 z-인덱스를 포함합니다."
