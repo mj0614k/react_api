@@ -15,11 +15,9 @@
       width: 100%;
       margin-bottom: 10px;
     }
+
     li {
-      width: 21%;
-      margin: 2%;
-      padding: 1%;
-  
+      
       a {
         align-items: center;
         width: 100%;
@@ -42,7 +40,6 @@
         }
         .vote_average {
           display: inline-block;
-          width: 40%;
         }
         .title {
           display: inline-block;
@@ -58,12 +55,6 @@
   .popular__box {
     .swiper-pagination-bullet {
       background-color: var(--white) !important;
-    }
-  }
-
-  .popular__box {
-    .swiper-slide {
-      width: 40% !important;
     }
   }
   // moviePop__list
@@ -85,7 +76,6 @@
   
       a {
         .vote_average {
-          width: 30%;
           float: right;
           margin-bottom: 5px;
         }
