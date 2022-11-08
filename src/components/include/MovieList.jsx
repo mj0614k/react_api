@@ -1,8 +1,11 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
+import "swiper/css/pagination";
 
-const MoviePopular = (props) => {
+import {Autoplay, Pagination} from "swiper";
+
+function MoviePopular(props) {
   return (
     <li>
       <a href={`https://www.themoviedb.org/movie/${props.movie.id}`}>
@@ -21,18 +24,22 @@ const MovieList = (props) => {
       <div className="container">
         <h2>Popular Movies</h2>
         <div className="popular__box">
-          <ul className="moviePop__list">
-            <Swiper
-              autoplay={{
-                delay: 3000,
-                disableOnInteraction: false,
-              }}
-              scrollbar={{ draggable: true }}
-              className="mySwiper"
-            >
-              <SwiperSlide>{props.populars.map((movies, index) => (index < 5 ? <MoviePopular key={index} rank={index} movie={movies} /> : null))}</SwiperSlide>
-            </Swiper>
-          </ul>
+        <Swiper
+            slidesPerView={3}
+            spaceBetween={30}
+            pagination={{
+              clickable: true,
+            }}
+            autoplay={{
+              delay: 1500,
+              disableOnInteraction: false,
+            }}
+            modules={[Autoplay, Pagination]}
+            className="mySwiper">
+          {/* <ul className="moviePop__list"> */}
+            {props.populars.map((movies, index) => index < 10 ? <SwiperSlide key={index}><MoviePopular key={index} rank={index} movie={movies} /> </SwiperSlide> : null)}
+        </Swiper>
+          {/* </ul> */}
         </div>
       </div>
     </section>
