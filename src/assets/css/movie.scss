@@ -54,6 +54,12 @@
       }
     }
   }
+
+  .popular__box {
+    .swiper-slide {
+      width: 40% !important;
+    }
+  }
   // moviePop__list
   .moviePop__list {
     display: flex;
