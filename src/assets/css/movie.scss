@@ -56,6 +56,12 @@
   }
 
   .popular__box {
+    .swiper-pagination-bullet {
+      background-color: var(--white) !important;
+    }
+  }
+
+  .popular__box {
     .swiper-slide {
       width: 40% !important;
     }
