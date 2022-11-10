@@ -1,8 +1,12 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
+import "swiper/css/effect-coverflow";
+import "swiper/css/pagination";
 
-const MoviePopular = (props) => {
+import { EffectCoverflow, Pagination } from "swiper";
+
+function MoviePopular(props) {
   return (
     <li>
       <a href={`https://www.themoviedb.org/movie/${props.movie.id}`}>
@@ -13,26 +17,40 @@ const MoviePopular = (props) => {
       </a>
     </li>
   );
-};
+}
 
 const MovieList = (props) => {
   return (
     <section className="movie__list">
       <div className="container">
-        <h2>Popular Movies</h2>
+        <h2>POPULAR Movies</h2>
         <div className="popular__box">
-          <ul className="moviePop__list">
-            <Swiper
-              autoplay={{
-                delay: 3000,
-                disableOnInteraction: false,
-              }}
-              scrollbar={{ draggable: true }}
-              className="mySwiper"
-            >
-              <SwiperSlide>{props.populars.map((movies, index) => (index < 5 ? <MoviePopular key={index} rank={index} movie={movies} /> : null))}</SwiperSlide>
-            </Swiper>
-          </ul>
+          <Swiper
+            effect={"coverflow"}
+            grabCursor={true}
+            centeredSlides={true}
+            slidesPerView={"auto"}
+            coverflowEffect={{
+              rotate: 50,
+              stretch: 0,
+              depth: 100,
+              modifier: 1,
+              slideShadows: true,
+            }}
+            pagination={true}
+            modules={[EffectCoverflow, Pagination]}
+            className="mySwiper"
+          >
+            {/* <ul className="moviePop__list"> */}
+            {props.populars.map((movies, index) =>
+              index < 10 ? (
+                <SwiperSlide key={index}>
+                  <MoviePopular key={index} rank={index} movie={movies} />{" "}
+                </SwiperSlide>
+              ) : null
+            )}
+          </Swiper>
+          {/* </ul> */}
         </div>
       </div>
     </section>

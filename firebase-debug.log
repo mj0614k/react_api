@@ -1,0 +1,14 @@
+[debug] [2022-11-09T00:47:02.305Z] ----------------------------------------------------------------------
+[debug] [2022-11-09T00:47:02.309Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\line\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2022-11-09T00:47:02.310Z] CLI Version:   11.16.0
+[debug] [2022-11-09T00:47:02.310Z] Platform:      win32
+[debug] [2022-11-09T00:47:02.310Z] Node Version:  v16.18.0
+[debug] [2022-11-09T00:47:02.311Z] Time:          Wed Nov 09 2022 09:47:02 GMT+0900 (대한민국 표준시)
+[debug] [2022-11-09T00:47:02.312Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-09T00:47:07.357Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\line\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
