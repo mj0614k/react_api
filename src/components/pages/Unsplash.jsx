@@ -12,7 +12,7 @@ import Contact from "../layout/Contact";
 
 const Unsplash = () => {
   const [images, setImages] = useState([]);
-  // const [random, setRandom] = useState([]);
+  const [random, setRandom] = useState([]);
 
   const search = async (query) => {
     await fetch(
@@ -20,13 +20,13 @@ const Unsplash = () => {
     )
       .then((response) => response.json())
       // .then((result) => console.log(result))
-      .then((result) => setImages(result))
+      .then((result) => setImages(result.results))
       .catch((error) => console.log(error));
   };
 
   useEffect(() => {
     fetch(
-      "https://api.unsplash.com/photos/random?client_id=CMPYww6ApEZzG93YflWFOp4WZwmnK8GSCgOgbTGxo1s&query=color&count=30"
+      "https://api.unsplash.com/photos/random?client_id=CMPYww6ApEZzG93YflWFOp4WZwmnK8GSCgOgbTGxo1s&count=30"
     )
       .then((response) => response.json())
       // .then((result) => console.log(result))
@@ -38,7 +38,7 @@ const Unsplash = () => {
     )
       .then((response) => response.json())
       // .then((result) => console.log(result))
-      .then((result) => setImages(result))
+      .then((result) => setRandom(result))
       .catch((error) => console.log(error));
     }, []);
 
@@ -47,9 +47,9 @@ const Unsplash = () => {
       <Header />
       <Contents>
         <Title title={["unsplash", "reference api"]} />
-        <UnsplashSlider images={images}/>
+        <UnsplashSlider random={random}/>
         <UnsplashSearch onSearch={search}/>
-        <UnsplashTag />
+        <UnsplashTag onSearch={search}/>
         <UnsplashCont images={images}/>
         <Contact />
       </Contents>
