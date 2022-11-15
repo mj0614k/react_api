@@ -11,6 +11,7 @@ const UnsplashItem = (props) => {
 };
 
 const UnsplashCont = (props) => {
+  // console.log(props.images);
   return (
     <section className="cont__unsplash">
       <div className="container">

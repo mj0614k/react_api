@@ -18,7 +18,7 @@ const Unsplash = () => {
     await fetch(`https://api.unsplash.com/search/photos?client_id=CMPYww6ApEZzG93YflWFOp4WZwmnK8GSCgOgbTGxo1s&query=${query}&per_page=30`)
       .then((response) => response.json())
       // .then((result) => console.log(result))
-      .then((result) => setImages(result))
+      .then((result) => setImages(result.results))
       .catch((error) => console.log(error));
   };
 
