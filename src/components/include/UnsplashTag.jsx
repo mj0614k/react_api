@@ -1,33 +1,33 @@
-import React from 'react';
+import React from "react";
 
-const UnsplashTag = ({onSearch}) => {
+const UnsplashTag = ({ onSearch }) => {
   const onClick1 = () => {
     onSearch("dog");
-  }
+  };
   const onClick2 = () => {
     onSearch("cat");
-  }
+  };
   const onClick3 = () => {
     onSearch("alpaca");
-  }
+  };
   const onClick4 = () => {
     onSearch("mouse");
-  }
+  };
   const onClick5 = () => {
     onSearch("hamster");
-  }
+  };
   const onClick6 = () => {
     onSearch("bear");
-  }
+  };
   const onClick7 = () => {
     onSearch("elephant");
-  }
+  };
   const onClick8 = () => {
     onSearch("rabbit");
-  }
+  };
 
   return (
-    <div className="movie__search">
+    <div className="unsplash__tag">
       <div className="container">
         <button type="submit" onClick={onClick1}>
           dog
@@ -55,7 +55,7 @@ const UnsplashTag = ({onSearch}) => {
         </button>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default UnsplashTag;

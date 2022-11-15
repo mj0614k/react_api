@@ -28,7 +28,7 @@ const Youtube = () => {
     fetch("https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=10&key=AIzaSyDScK_kd_EDAf9lp5tqhRjnyc1f34kDTrE")
     .then((response) => response.json())
       // .then((result) => console.log(result.results))
-    .then((result) => setPopularYoutubes(result.items))
+    .then((result) => setPopulars(result.items))
     .catch((error) => console.log(error));
   }, []);
 

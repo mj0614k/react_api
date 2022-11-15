@@ -1,15 +1,17 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/effect-cards";
+import "swiper/css/pagination";
 
-import { EffectCards } from "swiper";
+import { Pagination, Autoplay } from "swiper";
 
 function UnsplashSliderItem(props) {
   return (
     <li>
-      <a href={`https://unsplash.com/photos/${random.id}`}>
-        <img src={props.random.urls.regular} alt={props.random.urls.alt_description} />
+      <a href="/">
+        <figure className="unsplash__image">
+          <img src={props.random.urls.regular} alt={``} />
+        </figure>
       </a>
     </li>
   );
@@ -19,11 +21,27 @@ const UnsplashSlider = (props) => {
   return (
     <section className="unsplash__popular">
       <div className="container">
+        <h2>RANDOM Images</h2>
         <div className="unsplash__popular__box">
           <Swiper
-            effect={"cards"}
             grabCursor={true}
-            modules={[EffectCards]}
+            autoplay={{
+              delay: 2500,
+              disableOnInteraction: false,
+            }}
+            centeredSlides={true}
+            initialSlide="1"
+            spaceBetween={30}
+            slidesPerView={"auto"}
+            coverflowEffect={{
+              rotate: 50,
+              stretch: 0,
+              depth: 100,
+              modifier: 1,
+              slideShadows: true,
+            }}
+            pagination={{ clickable: true }}
+            modules={[Pagination, Autoplay]}
             className="mySwiper"
           >
             {/* <ul className="moviePop__list"> */}

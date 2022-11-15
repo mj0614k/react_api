@@ -1,6 +1,6 @@
 import React from "react";
 
-const UnsplashTag = (props) => {
+const YoutubeTag = ({ onSearch }) => {
   const onClick1 = () => {
     onSearch("html");
   };
@@ -21,13 +21,8 @@ const UnsplashTag = (props) => {
   };
 
   return (
-    <div className="movie__search">
+    <div className="youtube__tag">
       <div className="container">
-        {/* <input
-          ref={inputRef}
-          placeholder="검색하세요!"
-          onKeyPress={onKeyPress}
-        /> */}
         <button type="submit" onClick={onClick1}>
           html
         </button>
@@ -51,4 +46,4 @@ const UnsplashTag = (props) => {
   );
 };
 
-export default UnsplashTag;
+export default YoutubeTag;

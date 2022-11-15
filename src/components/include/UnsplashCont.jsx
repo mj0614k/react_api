@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const UnsplashItem = (props) => {
   return (
@@ -23,7 +23,7 @@ const UnsplashCont = (props) => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default UnsplashCont
+export default UnsplashCont;
